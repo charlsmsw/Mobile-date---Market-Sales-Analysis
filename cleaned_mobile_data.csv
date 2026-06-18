@@ -1,0 +1,667 @@
+Name,Company,Price,Star_Rating,Number_of_Ratings,Number_of_Reviews,Processor,Warranty,RAM_GB,ROM_GB,Expandable_GB,Price_Category
+"Google Pixel 10 Pro Fold (Moonstone, 256 GB)",Google,172999,4.3,8.262816937670928,279.0,Tensor G5 Processor,1.0,16.0,256.0,2048.0,Premium
+"Samsung Galaxy F36 5G (Red, 128 GB)",Samsung,15999,4.3,8.926251835034533,439.0,Samsung Exynos 1380 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"POCO C71 (Cool Blue, 128 GB)",POCO,6799,4.1,10.122823865507383,1190.0,"Unisoc T7250
+Max clock speed: 
+2 x A75@1.8GHz
+6 x A55@1.6GHz Processor",1.0,6.0,128.0,2048.0,Budget
+"POCO M7 5G (Mint Green, 128 GB)",POCO,9999,4.2,9.448175472033382,624.0,4 Gen 2 5G Processor,1.0,8.0,128.0,1024.0,Budget
+"Samsung Galaxy F36 5G (Black, 256 GB)",Samsung,19499,4.2,8.23031079913502,267.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Samsung Galaxy F36 5G (Violet, 128 GB)",Samsung,15999,4.3,8.926251835034533,439.0,Samsung Exynos 1380 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"realme C61 (Safari Green, 64 GB)",realme,6499,4.4,10.464131383282979,1105.0,T612 Processor,1.0,4.0,64.0,2048.0,Budget
+"POCO M7 Pro 5G (Lavender Frost, 256 GB)",POCO,13499,4.2,9.377632889750377,1001.0,Dimensity 7025 Ultra Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"POCO C71 (Power Black, 128 GB)",POCO,6799,4.1,10.122823865507383,1190.0,"Unisoc T7250
+Max clock speed: 
+2 x A75@1.8GHz
+6 x A55@1.6GHz Processor",1.0,6.0,128.0,2048.0,Budget
+"realme P3 Lite 5G Charger in the Box (Purple Blossom, 128 GB)",realme,9499,4.4,8.508959386489133,207.0,Dimensity 6300 Processor,1.0,4.0,128.0,2048.0,Budget
+"Google Pixel 9A (Porcelain, 256 GB)",Google,44999,4.4,8.262816937670928,279.0,Tensor G4 Processor,1.0,8.0,256.0,2048.0,Premium
+"Samsung Galaxy F36 5G (Black, 128 GB)",Samsung,17499,4.2,8.23031079913502,267.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"POCO C75 5G (Aqua Bliss, 64 GB)",POCO,7499,4.2,11.79377927782843,5919.0,4s Gen 2 5G Processor,1.0,4.0,64.0,1024.0,Budget
+"POCO C71 (Desert Gold, 64 GB)",POCO,6199,3.8,10.787874735397274,2213.0,"Unisoc T7250
+Max clock speed: 
+2 x A75@1.8GHz
+6 x A55@1.6GHz Processor",1.0,4.0,64.0,2048.0,Budget
+"MOTOROLA g05 (Forest Green, 64 GB)",MOTOROLA,7299,4.2,11.155335817103095,4329.0,Helio G81 Processor,1.0,4.0,64.0,1024.0,Budget
+"realme C61 (Marble Black, 64 GB)",realme,6499,4.4,10.464131383282979,1105.0,T612 Processor,1.0,4.0,64.0,2048.0,Budget
+"Samsung Galaxy F36 5G (Black, 128 GB)",Samsung,15999,4.3,8.926251835034533,439.0,Samsung Exynos 1380 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"Google Pixel 9A (Obsidian, 256 GB)",Google,44999,4.4,8.262816937670928,279.0,Tensor G4 Processor,1.0,8.0,256.0,2048.0,Premium
+"POCO M7 5G (Ocean Blue, 128 GB)",POCO,8999,4.1,11.012198675881653,2844.0,4 Gen 2 5G Processor,1.0,6.0,128.0,1024.0,Budget
+"MOTOROLA g05 (Plum Red, 64 GB)",MOTOROLA,7299,4.2,11.155335817103095,4329.0,Helio G81 Processor,1.0,4.0,64.0,1024.0,Budget
+"Samsung Galaxy F36 5G (Red, 256 GB)",Samsung,19499,4.2,8.23031079913502,267.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Google Pixel 9A (Iris, 256 GB)",Google,44999,4.4,8.262816937670928,279.0,Tensor G4 Processor,1.0,8.0,256.0,2048.0,Premium
+"POCO M7 5G (Mint Green, 128 GB)",POCO,8999,4.1,11.012198675881653,2844.0,4 Gen 2 5G Processor,1.0,6.0,128.0,1024.0,Budget
+"POCO M7 Pro 5G (Lunar Dust, 128 GB)",POCO,11499,4.3,10.323414252585296,2274.0,Dimensity 7025 Ultra Processor,1.0,6.0,128.0,2048.0,Mid-Range
+Kechaoda A26_Pink,Kechaoda,874,4.0,7.555905093611346,50.0,NA Processor,1.0,8.0,16.0,2048.0,Budget
+"MOTOROLA g35 5G (Midnight Black, 128 GB)",MOTOROLA,9999,4.2,11.576660538430138,6800.0,T760 Processor,1.0,4.0,128.0,1024.0,Budget
+Rastic SM Guru Music 2 Mobile Phone,Rastic,1099,3.2,3.713572066704308,1.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,64.0,Budget
+"vivo T4R 5G (Twilight Blue, 128 GB)",vivo,19499,4.5,10.67137107921009,1895.0,Dimensity 7400 5G Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"vivo T4 Lite 5G Charger in the Box (Titanium Gold, 256 GB)",vivo,13499,4.3,9.786391780659882,774.0,Dimensity 6300 5G Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"realme P3x 5G (Midnight Blue, 128 GB)",realme,11999,4.4,11.048156112962923,2352.0,Dimensity 6400 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"Ai+ Pulse (Blue, 64 GB)",Ai+,5999,4.3,10.47861104348485,2212.0,T615 Processor,1.0,4.0,64.0,1024.0,Budget
+"realme P3 Lite 5G Charger in the Box (Midnight Lily, 128 GB)",realme,9499,4.4,8.508959386489133,207.0,Dimensity 6300 Processor,1.0,4.0,128.0,2048.0,Budget
+"Samsung Galaxy F07 (Green, 64 GB)",Samsung,6749,4.3,6.996681488176539,62.0,Helio G99 Processor,1.0,4.0,64.0,2048.0,Budget
+"POCO C75 5G (Enchanted Green, 64 GB)",POCO,7499,4.2,11.79377927782843,5919.0,4s Gen 2 5G Processor,1.0,4.0,64.0,1024.0,Budget
+Kechaoda K115,Kechaoda,989,4.1,10.659726896262056,2686.0,NA Processor,1.0,8.0,32.0,2048.0,Budget
+"POCO C75 5G (Aqua Bliss, 128 GB)",POCO,8199,4.2,11.79377927782843,5919.0,4s Gen 2 5G Processor,1.0,4.0,128.0,1024.0,Budget
+"REDMI Note 14 SE 5G (Titan Black, 128 GB)",REDMI,13499,4.3,9.64956257688248,631.0,Dimensity 7025 Ultra Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"OPPO K13x 5G 6000mAh and 45W SUPERVOOC Charger & AI (Breeze Blue, 128 GB)",OPPO,12999,4.5,11.201496998788446,5633.0,Dimensity 6300 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"Motorola G85 5G (Olive Green, 128 GB)",Motorola,15999,4.4,12.438441512462264,12522.0,6s Gen 3 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"vivo T4 Lite 5G Charger in the Box (Titanium Gold, 128 GB)",vivo,11499,4.4,10.769768376656003,1474.0,Dimensity 6300 5G Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"realme P4 5G (Engine Blue, 128 GB)",realme,16999,4.4,9.63717550582054,981.0,Mediatek Dimensity 7400 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+Snexian GURU 310,Snexian,619,3.3,9.769327390849192,1191.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"REDMI A4 5G only on Jio SIM (Starry Black, 64 GB)",REDMI,7941,4.3,9.353834471614912,489.0,Samsung Exynos 1380 Processor,1.0,4.0,64.0,2048.0,Budget
+Kechaoda A27,Kechaoda,873,4.0,9.65598726971718,861.0,NA Processor,1.0,8.0,128.0,16.0,Budget
+"POCO C71 (Power Black, 64 GB)",POCO,6199,3.8,10.787874735397274,2213.0,"Unisoc T7250
+Max clock speed: 
+2 x A75@1.8GHz
+6 x A55@1.6GHz Processor",1.0,4.0,64.0,2048.0,Budget
+"vivo T4R 5G (Arctic White, 128 GB)",vivo,19499,4.5,10.67137107921009,1895.0,Dimensity 7400 5G Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"vivo T4x 5G (Pronto Purple, 128 GB)",vivo,14499,4.4,12.126915795368983,8248.0,Dimensity 7300 5G Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"POCO M7 Pro 5G (Olive Twilight, 256 GB)",POCO,13499,4.2,9.377632889750377,1001.0,Dimensity 7025 Ultra Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"POCO C71 (Cool Blue, 64 GB)",POCO,6199,3.8,10.787874735397274,2213.0,"Unisoc T7250
+Max clock speed: 
+2 x A75@1.8GHz
+6 x A55@1.6GHz Processor",1.0,4.0,64.0,2048.0,Budget
+"realme Narzo 80 Lite 4G (Beach Gold, 64 GB)",realme,7248,4.3,7.193685818395112,55.0,Samsung Exynos 1380 Processor,1.0,4.0,64.0,2048.0,Budget
+"vivo T4x 5G (Pronto Purple, 256 GB)",vivo,17499,4.4,11.829697783306225,6552.0,Dimensity 7300 5G Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"realme 14 Pro+ 5G (Emerald Drift, 256 GB)",realme,23999,4.4,9.642447411030767,1853.0,7s Gen 3 Mobile Platform Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"REDMI A5 (Jaisalmer Gold, 64 GB)",REDMI,6499,4.1,8.58858318750291,246.0,T7250 Processor,1.0,3.0,64.0,2048.0,Budget
+"POCO M7 Pro 5G (Lavender Frost, 128 GB)",POCO,11499,4.3,10.323414252585296,2274.0,Dimensity 7025 Ultra Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"MOTOROLA Edge 60 Pro (Pantone Shadow, 256 GB)",MOTOROLA,33999,4.3,9.405002140854743,1018.0,Dimensity 8350 Processor,1.0,12.0,256.0,2048.0,Premium
+"vivo T4 Lite 5G Charger in the Box (Prism Blue, 128 GB)",vivo,10499,4.4,10.488882470601844,1069.0,Dimensity 6300 5G Processor,1.0,4.0,128.0,2048.0,Mid-Range
+"realme 14 Pro+ 5G (Suede Grey, 512 GB)",realme,29999,4.4,9.000853147109458,893.0,7s Gen 3 Mobile Platform Processor,1.0,12.0,512.0,2048.0,Mid-Range
+"POCO M7 5G (Satin Black, 128 GB)",POCO,9999,4.2,9.448175472033382,624.0,4 Gen 2 5G Processor,1.0,8.0,128.0,1024.0,Budget
+"vivo T4 5G (Phantom Grey, 256 GB)",vivo,22999,4.5,11.33459991350162,3808.0,Snapdragon 7s Gen 3 5G Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"CMF by Nothing Phone 2 Pro (Black, 128 GB)",CMF,17499,4.4,10.975396458369689,3998.0,Dimensity 7300 Pro 5G Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"MOTOROLA g35 5G (Midnight Black, 128 GB)",MOTOROLA,11999,4.2,7.763446388727362,107.0,T760 Processor,1.0,8.0,128.0,1024.0,Mid-Range
+"OnePlus Nord CE5 5G (Marble Mist, 128 GB)",OnePlus,25999,4.5,8.512180649592693,278.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"POCO C75 5G (Enchanted Green, 128 GB)",POCO,8199,4.2,11.79377927782843,5919.0,4s Gen 2 5G Processor,1.0,4.0,128.0,1024.0,Budget
+"vivo Y19e (Titanium Silver, 64 GB)",vivo,8339,4.3,7.997326822998097,99.0,T7225 Processor,1.0,4.0,64.0,2048.0,Budget
+"REDMI A5 (Just Black, 128 GB)",REDMI,7499,4.2,8.287780027088433,198.0,T7250 Processor,1.0,4.0,128.0,2048.0,Budget
+"POCO M7 Plus 5G (Chrome Silver, 128 GB)",POCO,12999,4.3,8.326032685955079,228.0,Snapdragon 6s Gen 3 5G Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"realme Narzo 80 Lite 5G (Onyx Black, 128 GB)",realme,10583,4.3,6.139884552226255,19.0,Samsung Exynos 1380 Processor,1.0,4.0,128.0,2048.0,Mid-Range
+"POCO F7 5G (Phantom Black, 512 GB)",POCO,32999,4.4,9.708931458073831,1633.0,8s Gen 4 Processor,1.0,12.0,512.0,2048.0,Premium
+"POCO M6 Plus 5G (Ice Silver, 128 GB)",POCO,10655,4.2,9.658545633760506,934.0,Snapdragon 4 Gen2 AE Processor,1.0,8.0,128.0,1024.0,Mid-Range
+"Infinix Note 50s 5G+ (Marine Drift, 128 GB)",Infinix,15999,4.4,8.968650903374874,509.0,Dimensity 7300 Ultimate Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)",MOTOROLA,22999,4.4,11.559742254745137,5478.0,Dimensity 7400 Processor,1.0,8.0,256.0,1024.0,Mid-Range
+"Ai+ Pulse (Sparkle Red, 64 GB)",Ai+,5999,4.3,10.47861104348485,2212.0,T615 Processor,1.0,4.0,64.0,1024.0,Budget
+"vivo T4 Lite 5G Charger in the Box (Prism Blue, 128 GB)",vivo,11499,4.4,10.769768376656003,1474.0,Dimensity 6300 5G Processor,1.0,6.0,128.0,2048.0,Mid-Range
+Kechaoda K115,Kechaoda,974,4.1,10.659726896262056,2686.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"realme P3x 5G (Stellar Pink, 128 GB)",realme,11999,4.4,11.048156112962923,2352.0,Dimensity 6400 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+Kechaoda K33,Kechaoda,977,4.0,9.308917935337178,620.0,NA Processor,1.0,8.0,128.0,32.0,Budget
+"Nothing Phone (3a) Pro (Grey, 256 GB)",Nothing,32999,4.4,8.795127912413138,407.0,7s Gen3 Processor,1.0,12.0,256.0,2048.0,Premium
+"vivo T4R 5G (Twilight Blue, 256 GB)",vivo,21499,4.5,10.67137107921009,1895.0,Dimensity 7400 5G Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Nothing Phone (3a) (White, 128 GB)",Nothing,24999,4.5,10.817976662463655,3586.0,7s Gen3 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"POCO M7 Pro 5G (Olive Twilight, 128 GB)",POCO,11499,4.3,10.323414252585296,2274.0,Dimensity 7025 Ultra Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"CMF by Nothing Phone 2 Pro (White, 128 GB)",CMF,17499,4.4,10.975396458369689,3998.0,Dimensity 7300 Pro 5G Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Nokia 105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",Nokia,1204,3.8,12.099889569440032,11425.0,SC6531E Processor,1.0,8.0,128.0,2048.0,Budget
+"Samsung Galaxy A35 5G (Awesome Navy, 128 GB)",Samsung,18499,4.4,10.980297215243393,3442.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,1024.0,Mid-Range
+"MOTOROLA Edge 60 Pro (Pantone Shadow, 512 GB)",MOTOROLA,37999,4.3,7.556427969440253,144.0,Dimensity 8350 Processor,1.0,16.0,512.0,2048.0,Premium
+"realme P3 Lite 5G Charger in the Box (Lily White, 128 GB)",realme,9499,4.4,8.508959386489133,207.0,Dimensity 6300 Processor,1.0,4.0,128.0,2048.0,Budget
+"realme Narzo 80 Lite 5G (Crystal Purple, 128 GB)",realme,10724,4.3,8.213381737034572,146.0,Samsung Exynos 1380 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"vivo T4 5G (Phantom Grey, 256 GB)",vivo,24999,4.5,9.91398228962877,1071.0,Snapdragon 7s Gen 3 5G Processor,1.0,12.0,256.0,2048.0,Mid-Range
+"POCO M6 Plus 5G (Graphite Black, 128 GB)",POCO,10643,4.2,9.658545633760506,934.0,Snapdragon 4 Gen2 AE Processor,1.0,8.0,128.0,1024.0,Mid-Range
+"MOTOROLA Edge 60 Pro (Pantone Shadow, 256 GB)",MOTOROLA,29999,4.3,10.576865605238781,2939.0,Dimensity 8350 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"REDMI A4 5G only on Jio SIM (Sparkle Purple, 64 GB)",REDMI,7954,4.3,9.353834471614912,489.0,Samsung Exynos 1380 Processor,1.0,4.0,64.0,2048.0,Budget
+"vivo T4 Lite 5G Charger in the Box (Titanium Gold, 128 GB)",vivo,10499,4.4,10.488882470601844,1069.0,Dimensity 6300 5G Processor,1.0,4.0,128.0,2048.0,Mid-Range
+"Samsung M06 5G (Blazing Black, 128 GB)",Samsung,9321,4.1,6.643789733147672,51.0,Samsung Exynos 1380 Processor,1.0,4.0,128.0,2048.0,Budget
+"vivo T4x 5G (Glacial Teal, 128 GB)",vivo,14499,4.4,12.126915795368983,8248.0,Dimensity 7300 5G Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"Motorola g45 5G (Brilliant Green, 128 GB)",Motorola,11999,4.3,12.406602421972798,12158.0,Snapdragon 6s Gen 3 Processor,1.0,8.0,128.0,1024.0,Mid-Range
+"MOTOROLA g06 power (Laurel Oak, 64 GB)",MOTOROLA,7499,4.3,7.350516171833998,111.0,Helio G81 Processor,1.0,4.0,64.0,1024.0,Budget
+"CMF by Nothing Phone 2 Pro (Orange, 128 GB)",CMF,17499,4.4,10.975396458369689,3998.0,Dimensity 7300 Pro 5G Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"MOTOROLA G96 5G (Pantone Ashleigh Blue, 128 GB)",MOTOROLA,17999,4.4,11.150304305853954,3506.0,7s Gen 2 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Nokia 105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",Nokia,1347,3.8,12.099889569440032,11425.0,SC6531E Processor,1.0,8.0,128.0,2048.0,Budget
+"realme C61 (Marble Black, 128 GB)",realme,8199,4.3,9.981327836654465,784.0,T612 Processor,1.0,6.0,128.0,2048.0,Budget
+"POCO M7 5G (Ocean Blue, 128 GB)",POCO,9999,4.2,9.448175472033382,624.0,4 Gen 2 5G Processor,1.0,8.0,128.0,1024.0,Budget
+"POCO F6 5G (Deadpool, 256 GB)",POCO,20949,4.3,9.07566546864958,824.0,8s Gen3 Processor,1.0,12.0,256.0,2048.0,Mid-Range
+Kechaoda A27,Kechaoda,880,4.0,9.65598726971718,861.0,processor speed 400MHZ Processor,1.0,8.0,128.0,16.0,Budget
+"CMF by Nothing Phone 2 Pro (Light Green, 256 GB)",CMF,19499,4.4,10.975396458369689,3998.0,Dimensity 7300 Pro 5G Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Samsung Galaxy S24 FE 5G (Blue, 128 GB)",Samsung,31999,4.5,11.098560873675032,4213.0,Exynos 2400e Processor,1.0,8.0,128.0,2048.0,Premium
+"Samsung Galaxy A55 5G (Awesome Iceblue, 256 GB)",Samsung,25999,4.4,8.515191188745565,306.0,Samsung Exynos 1480 Processor,1.0,8.0,256.0,1024.0,Mid-Range
+"POCO X7 Pro 5G (Nebula Green, 256 GB)",POCO,20999,4.3,9.595670797663967,1586.0,Dimensity D8400 Ultra Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Samsung Galaxy A35 5G (Awesome Navy, 256 GB)",Samsung,20499,4.4,10.980297215243393,3442.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,1024.0,Mid-Range
+"OnePlus 13R 5G (Nebula Noir, 256 GB)",OnePlus,38495,4.5,8.34212526333359,272.0,Samsung Exynos 1380 Processor,1.0,12.0,256.0,2048.0,Premium
+"OPPO K13 5G with 7000mAh and 80W SUPERVOOC Charger In-The-Box (Prism Black, 256 GB)",OPPO,19999,4.5,11.110685151617679,4047.0,Snapdragon 6 Gen 4 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"CMF by Nothing Phone 2 Pro (Orange, 256 GB)",CMF,19499,4.4,10.975396458369689,3998.0,Dimensity 7300 Pro 5G Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"realme Narzo 80 Lite 5G (Crystal Purple, 128 GB)",realme,10742,4.3,6.139884552226255,19.0,Samsung Exynos 1380 Processor,1.0,4.0,128.0,2048.0,Mid-Range
+"OnePlus Nord 5 (Phantom Grey, 256 GB)",OnePlus,32917,4.5,6.945051063725834,71.0,Qualcomm® Snapdragon™ 8s Gen 3 Mobile Platform Processor,1.0,8.0,256.0,2048.0,Premium
+"Apple iPhone 16 Plus (Black, 128 GB)",Apple,71999,4.6,8.28349412616251,211.0,"A18 Chip, 6 Core Processor Processor",1.0,8.0,128.0,2048.0,Premium
+"Samsung Galaxy S24 FE 5G (Graphite, 128 GB)",Samsung,31999,4.5,11.098560873675032,4213.0,Exynos 2400e Processor,1.0,8.0,128.0,2048.0,Premium
+"Samsung Galaxy S24 FE 5G (Graphite, 256 GB)",Samsung,35999,4.5,11.098560873675032,4213.0,Exynos 2400e Processor,1.0,8.0,256.0,2048.0,Premium
+"REDMI A4 5G only on Jio SIM (Starry Black, 128 GB)",REDMI,8760,4.3,9.353834471614912,489.0,Samsung Exynos 1380 Processor,1.0,4.0,128.0,2048.0,Budget
+"MOTOROLA G96 5G (Pantone Cattleya Orchid, 128 GB)",MOTOROLA,17999,4.4,11.150304305853954,3506.0,7s Gen 2 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"realme P3 Lite 5G Charger in the Box (Purple Blossom, 128 GB)",realme,10499,4.4,8.857230494201946,277.0,Dimensity 6300 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"Apple iPhone 14 (Starlight, 128 GB)",Apple,54900,4.6,12.676866587396603,11895.0,"A15 Bionic Chip, 6 Core Processor Processor",1.0,8.0,128.0,2048.0,Premium
+"Samsung Galaxy S24 5G Snapdragon (Onyx Black, 256 GB)",Samsung,45999,4.6,10.650957184950148,2342.0,8 Gen 3 Processor,1.0,8.0,256.0,2048.0,Premium
+"Apple iPhone 16 Pro Max (Desert Titanium, 256 GB)",Apple,134900,4.7,9.661352295040318,824.0,"A18 Pro Chip, 6 Core Processor Processor",1.0,8.0,128.0,2048.0,Premium
+"Samsung Galaxy S24 FE 5G (Blue, 256 GB)",Samsung,35999,4.5,11.098560873675032,4213.0,Exynos 2400e Processor,1.0,8.0,256.0,2048.0,Premium
+"Apple iPhone 16 (Pink, 256 GB)",Apple,79900,4.6,12.113491239234605,5755.0,"A18 Chip, 6 Core Processor Processor",1.0,8.0,128.0,2048.0,Premium
+"Samsung Galaxy S24 FE 5G (Mint, 256 GB)",Samsung,35999,4.5,11.098560873675032,4213.0,Exynos 2400e Processor,1.0,8.0,256.0,2048.0,Premium
+"Apple iPhone 16 (White, 256 GB)",Apple,79900,4.6,12.113491239234605,5755.0,"A18 Chip, 6 Core Processor Processor",1.0,8.0,128.0,2048.0,Premium
+"POCO M7 Plus 5G (Chrome Silver, 128 GB)",POCO,13999,4.3,7.822044008185619,144.0,Snapdragon 6s Gen 3 5G Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"realme C71 (Obsidian Black, 128 GB)",realme,8699,4.2,8.765614549914716,243.0,T7250 Processor,1.0,6.0,128.0,2048.0,Budget
+"Samsung Galaxy A35 5G (Awesome Lilac, 256 GB)",Samsung,20499,4.4,10.980297215243393,3442.0,Exynos 1380 Processor,1.0,8.0,256.0,1024.0,Mid-Range
+"Samsung M05 (Mint Green, 64 GB)",Samsung,7495,4.3,8.27410200229233,163.0,Samsung Exynos 1380 Processor,1.0,4.0,64.0,2048.0,Budget
+"Samsung Galaxy S24 5G Snapdragon (Cobalt Violet, 128 GB)",Samsung,40999,4.6,10.650957184950148,2342.0,8 Gen 3 Processor,1.0,8.0,128.0,2048.0,Premium
+"Samsung Galaxy S24 5G Snapdragon (Amber Yellow, 256 GB)",Samsung,45999,4.6,10.650957184950148,2342.0,8 Gen 3 Processor,1.0,8.0,256.0,2048.0,Premium
+"Apple iPhone 16 Plus (Black, 256 GB)",Apple,81999,4.6,8.28349412616251,211.0,"A18 Chip, 6 Core Processor Processor",1.0,8.0,128.0,2048.0,Premium
+"Samsung M06 5G (Sage Green, 128 GB)",Samsung,11153,3.9,6.284134161070802,40.0,Samsung Exynos 1380 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"IQOO Z10X 5G (Titanium, 128 GB)",IQOO,15884,4.4,8.308199063206446,196.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"MOTOROLA g06 power (Pantone Tendril, 64 GB)",MOTOROLA,7499,4.3,7.350516171833998,111.0,Helio G81 Processor,1.0,4.0,64.0,1024.0,Budget
+"IQOO Z10X 5G (Titanium, 256 GB)",IQOO,17489,4.4,8.308199063206446,196.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"vivo T4R 5G (Arctic White, 256 GB)",vivo,21499,4.5,10.67137107921009,1895.0,Dimensity 7400 5G Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"IQOO Z10X 5G (Ultramarine, 128 GB)",IQOO,15361,4.4,8.308199063206446,196.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"IQOO Z10 Lite 5G (Titanium Blue, 128 GB)",IQOO,10499,4.2,7.401231264413015,67.0,Samsung Exynos 1380 Processor,1.0,4.0,128.0,2048.0,Mid-Range
+"IQOO Z10 Lite 5G (Cyber Green, 128 GB)",IQOO,10499,4.2,7.401231264413015,67.0,Samsung Exynos 1380 Processor,1.0,4.0,128.0,2048.0,Mid-Range
+"REDMI A4 5G only on Jio SIM (Sparkle Purple, 64 GB)",REDMI,7953,4.3,9.353834471614912,489.0,Samsung Exynos 1380 Processor,1.0,4.0,64.0,2048.0,Budget
+"realme P4 5G (Steel Grey, 128 GB)",realme,16999,4.4,9.63717550582054,981.0,Mediatek Dimensity 7400 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"realme 15x 5G (Maroon Red, 128 GB)",realme,18999,4.3,7.609862200913554,146.0,Dimensity 6300 6nm Octa-core chipset Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"realme 15x 5G (Aqua Blue, 128 GB)",realme,17499,4.4,7.823245690685523,195.0,Dimensity 6300 6nm Octa-core chipset Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"IQOO Z10 Lite 5G (Titanium Blue, 128 GB)",IQOO,11790,4.2,7.745002803515839,89.0,Samsung Exynos 1380 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"IQOO Z10 Lite 5G (Titanium Blue, 256 GB)",IQOO,13990,4.3,7.383989457978509,72.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Samsung Galaxy S24 Ultra 5G (Titanium Violet, 256 GB)",Samsung,86999,4.6,8.870382066070137,531.0,Snapdragon 8 Gen 3 Processor,1.0,12.0,256.0,2048.0,Premium
+"MOTOROLA G86 Power 5G (Pantone Cosmic Sky, 128 GB)",MOTOROLA,17999,4.3,9.960623743906938,1374.0,Dimensity 7400 Processor,1.0,8.0,128.0,1024.0,Mid-Range
+"Ai+ Pulse (Black, 64 GB)",Ai+,5999,4.3,10.47861104348485,2212.0,T615 Processor,1.0,4.0,64.0,1024.0,Budget
+"Apple iPhone 16 Pro Max (Black Titanium, 256 GB)",Apple,134900,4.7,9.661352295040318,824.0,"A18 Pro Chip, 6 Core Processor Processor",1.0,8.0,128.0,2048.0,Premium
+"Samsung Galaxy A35 5G (Awesome Lilac, 128 GB)",Samsung,18499,4.4,10.980297215243393,3442.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,1024.0,Mid-Range
+"MOTOROLA G96 5G (Pantone Dresden Blue, 128 GB)",MOTOROLA,17999,4.4,11.150304305853954,3506.0,7s Gen 2 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"OnePlus Nord CE4 lite 5G (SUPER SILVER, 128 GB)",OnePlus,17999,4.4,10.453110723010031,1628.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"IQOO Z10X 5G (Titanium, 128 GB)",IQOO,14399,4.4,8.886270902072013,383.0,Samsung Exynos 1380 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"realme 15x 5G (Aqua Blue, 128 GB)",realme,18999,4.3,7.609862200913554,146.0,Dimensity 6300 6nm Octa-core chipset Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"realme 15x 5G (Marine Blue, 128 GB)",realme,17499,4.4,7.823245690685523,195.0,Dimensity 6300 6nm Octa-core chipset Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"realme 15x 5G (Maroon Red, 128 GB)",realme,17499,4.4,7.823245690685523,195.0,Dimensity 6300 6nm Octa-core chipset Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"Apple iPhone 16 (Ultramarine, 256 GB)",Apple,79900,4.6,12.113491239234605,5755.0,"A18 Chip, 6 Core Processor Processor",1.0,8.0,128.0,2048.0,Premium
+"vivo T4R 5G (Twilight Blue, 256 GB)",vivo,23499,4.4,8.250097752572845,183.0,Dimensity 7400 5G Processor,1.0,12.0,256.0,2048.0,Mid-Range
+"IQOO Z10 Lite 5G (Cyber Green, 256 GB)",IQOO,13990,4.3,7.383989457978509,72.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"IQOO Z10X 5G (Ultramarine, 256 GB)",IQOO,17275,4.4,8.308199063206446,196.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+Kechaoda A27,Kechaoda,879,4.0,9.65598726971718,861.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,16.0,Budget
+"Samsung Galaxy A55 5G (Awesome Navy, 128 GB)",Samsung,24792,4.4,8.515191188745565,306.0,Samsung Exynos 1480 Processor,1.0,8.0,128.0,1024.0,Mid-Range
+"Google Pixel 8a (Bay, 128 GB)",Google,34999,4.3,9.284055409798464,830.0,Tensor G3 Processor,1.0,8.0,128.0,2048.0,Premium
+Kechaoda A26_rose gold,Kechaoda,873,3.9,6.432940092739179,17.0,NA Processor,1.0,8.0,16.0,2048.0,Budget
+"OnePlus Nord CE5 5G (Black Infinity, 128 GB)",OnePlus,25999,4.5,8.512180649592693,278.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+Jio V4,Jio,789,3.7,7.440146680662688,102.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"OnePlus Nord CE5 5G (Nexus Blue, 256 GB)",OnePlus,26980,4.5,8.512180649592693,278.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"OnePlus Nord CE5 5G (Black Infinity, 256 GB)",OnePlus,26936,4.5,8.512180649592693,278.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Infinix Note 50x 5G+ 45W Charger In the Box & AI (Sea Breeze Green, 128 GB)",Infinix,13499,4.3,8.4071550862073,378.0,Dimensity 7300 Ultimate Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"vivo Y19e (Majestic Green, 64 GB)",vivo,8889,4.3,7.997326822998097,99.0,T7225 Processor,1.0,4.0,64.0,2048.0,Budget
+"Nothing Phone (3a) Pro (Black, 256 GB)",Nothing,30999,4.5,9.344084242025778,874.0,7s Gen3 Processor,1.0,8.0,256.0,2048.0,Premium
+Kechaoda A27,Kechaoda,884,4.0,9.65598726971718,861.0,NA Processor,1.0,8.0,128.0,16.0,Budget
+"Nothing Phone (3a) Pro (Grey, 128 GB)",Nothing,28999,4.5,9.344084242025778,874.0,7s Gen3 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"MOTOROLA Edge 60 Pro (Pantone Sparkling Grape, 256 GB)",MOTOROLA,33999,4.3,9.405002140854743,1018.0,Dimensity 8350 Processor,1.0,12.0,256.0,2048.0,Premium
+"realme 15x 5G (Marine Blue, 256 GB)",realme,20499,4.3,7.609862200913554,146.0,Dimensity 6300 6nm Octa-core chipset Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"realme 15x 5G (Marine Blue, 128 GB)",realme,18999,4.3,7.609862200913554,146.0,Dimensity 6300 6nm Octa-core chipset Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Infinix Note 50x 5G+ 45W Charger In the Box & AI (Enchanted Purple, 128 GB)",Infinix,13499,4.3,8.4071550862073,378.0,Dimensity 7300 Ultimate Processor,1.0,8.0,128.0,2048.0,Mid-Range
+Kechaoda K115,Kechaoda,974,4.1,10.659726896262056,2686.0,NO Processor,1.0,8.0,128.0,16.0,Budget
+"OnePlus Nord CE4 lite 5G (MEGA BLUE, 128 GB)",OnePlus,17983,4.4,10.453110723010031,1628.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Nothing Phone (3a) Pro (Grey, 256 GB)",Nothing,30999,4.5,9.344084242025778,874.0,7s Gen3 Processor,1.0,8.0,256.0,2048.0,Premium
+"realme C71 (Obsidian Black, 64 GB)",realme,7339,4.3,5.583496308781699,11.0,T7250 Processor,1.0,4.0,64.0,2048.0,Budget
+"Nokia 2660 Flip 4G Volte Black keypad Mobile with Dual Sim & Screen, MP3 Player",Nokia,4860,4.2,7.446585099157725,98.0,Samsung Exynos 1380 Processor,1.0,46875.0,125.0,2048.0,Budget
+"Nothing Phone (3a) Pro (Black, 128 GB)",Nothing,28999,4.5,9.344084242025778,874.0,7s Gen3 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Apple iPhone 16 Pro Max (Natural Titanium, 256 GB)",Apple,134900,4.7,9.661352295040318,824.0,"A18 Pro Chip, 6 Core Processor Processor",1.0,8.0,128.0,2048.0,Premium
+"Apple iPhone 14 (Midnight, 128 GB)",Apple,54900,4.6,12.676866587396603,11895.0,"A15 Bionic Chip, 6 Core Processor Processor",1.0,8.0,128.0,2048.0,Premium
+"realme P4 5G (Forge Red, 128 GB)",realme,16999,4.4,9.63717550582054,981.0,Mediatek Dimensity 7400 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"MOTOROLA G86 Power 5G (Pantone Spellbound, 128 GB)",MOTOROLA,17999,4.3,9.960623743906938,1374.0,Dimensity 7400 Processor,1.0,8.0,128.0,1024.0,Mid-Range
+LAVA A3 Torch,LAVA,1379,4.1,6.19644412779452,35.0,Mtk Processor,1.0,8.0,128.0,32.0,Budget
+Micromax X1i Smart,Micromax,980,3.8,7.976595409316577,171.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"POCO M7 Plus 5G (Carbon Black, 128 GB)",POCO,13999,4.3,7.822044008185619,144.0,Snapdragon 6s Gen 3 5G Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"REDMI 15 5G (Frosted White, 256 GB)",REDMI,16179,4.2,7.458186157340487,87.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Infinix Note 50x 5G+ 45W Charger In the Box & AI (Sea Breeze Green, 128 GB)",Infinix,11999,4.3,9.617137925318126,1371.0,Dimensity 7300 Ultimate Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"Infinix Note 50x 5G+ 45W Charger In the Box & AI (Titanium Grey, 128 GB)",Infinix,13499,4.3,8.4071550862073,378.0,Dimensity 7300 Ultimate Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Samsung M06 5G (Blazing Black, 128 GB)",Samsung,11190,3.9,6.284134161070802,40.0,Samsung Exynos 1380 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"Ai+ Nova 5G (Purple, 128 GB)",Ai+,8999,4.1,9.759386208561871,1161.0,T8200 Processor,1.0,6.0,128.0,1024.0,Budget
+"Apple iPhone 14 (Blue, 128 GB)",Apple,54900,4.6,12.676866587396603,11895.0,"A15 Bionic Chip, 6 Core Processor Processor",1.0,8.0,128.0,2048.0,Premium
+"amaq 4G/VOLTE supported Dual Sim, Touch and Keypad,Feature phone",amaq,2499,4.1,3.713572066704308,1.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,8.0,Budget
+"OnePlus Nord CE4 (Celadon Marble, 128 GB)",OnePlus,19658,4.4,10.202295007771328,1475.0,OxygenOS 14.0 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Samsung Galaxy S24 FE 5G (Mint, 128 GB)",Samsung,31999,4.5,11.098560873675032,4213.0,Exynos 2400e Processor,1.0,8.0,128.0,2048.0,Premium
+"IQOO Neo 10R 5G (Raging Blue, 128 GB)",IQOO,26337,4.5,8.464425125877582,306.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+Kechaoda K33,Kechaoda,989,4.0,9.308917935337178,620.0,NA Processor,1.0,8.0,32.0,2048.0,Budget
+Kechaoda A26,Kechaoda,889,4.0,10.293398993717526,1617.0,NA Processor,1.0,8.0,16.0,2048.0,Budget
+"Nothing Phone (3a) Pro (Black, 256 GB)",Nothing,32999,4.4,8.795127912413138,407.0,7s Gen3 Processor,1.0,12.0,256.0,2048.0,Premium
+"Samsung Galaxy M35 5G (Moonlight Blue, 256 GB)",Samsung,19999,4.3,8.60557030203365,350.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+hmd 105 Dual Sim,hmd,999,3.8,8.239065331769268,281.0,SC6531E Processor,1.0,8.0,128.0,32.0,Budget
+"REDMI 15 5G (Sandy Purple, 128 GB)",REDMI,15477,4.2,7.458186157340487,87.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"REDMI 15 5G (Frosted White, 128 GB)",REDMI,14690,4.2,7.458186157340487,87.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+MOTOROLA Moto A300,MOTOROLA,1429,4.0,5.4116460518550396,16.0,Mtk Processor,2.0,8.0,128.0,64.0,Budget
+"Samsung Galaxy A06 5G (Black, 64 GB)",Samsung,9699,4.1,7.665284718471351,136.0,Dimensity 6300 Processor,1.0,4.0,64.0,2048.0,Budget
+"IQOO Neo 10R 5G (Raging Blue, 256 GB)",IQOO,27988,4.5,8.464425125877582,306.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+itel it5027 Slim Keypad Mobile | 2.4 inch Display| Type C Charging,itel,1099,4.1,5.910796644040527,17.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"Samsung Galaxy S24 Ultra 5G (Titanium Black, 256 GB)",Samsung,88999,4.6,8.870382066070137,531.0,Snapdragon 8 Gen 3 Processor,1.0,12.0,256.0,2048.0,Premium
+"Samsung Galaxy A06 5G (Black, 128 GB)",Samsung,10598,4.1,7.665284718471351,136.0,MEDIATEK Processor,1.0,4.0,128.0,1024.0,Mid-Range
+"Samsung Galaxy S24 5G Snapdragon (Marble Gray, 128 GB)",Samsung,40999,4.6,10.650957184950148,2342.0,8 Gen 3 Processor,1.0,8.0,128.0,2048.0,Premium
+"OPPO A3x 5G (Sparkle Black, 64 GB)",OPPO,10399,4.2,8.48528964240323,188.0,Dimensity 6300 Processor,1.0,4.0,64.0,2048.0,Mid-Range
+itel it5262,itel,1399,4.0,7.669495251007694,115.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,32.0,Budget
+"OnePlus Nord CE4 lite 5G (MEGA BLUE, 256 GB)",OnePlus,23390,4.4,10.453110723010031,1628.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Tecno Pova 7 5G (Oasis Green, 256 GB)",Tecno,15999,4.4,8.907883013942248,560.0,Dimensity 7300 Ultimate Processor,1.0,8.0,256.0,2048.0,Mid-Range
+Kechaoda K33,Kechaoda,998,4.0,9.308917935337178,620.0,NA Processor,1.0,8.0,32.0,2048.0,Budget
+"OnePlus Nord CE4 lite 5G (ULTRA ORANGE, 256 GB)",OnePlus,23331,4.4,10.453110723010031,1628.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+MOTOROLA Moto A300,MOTOROLA,1449,4.0,5.4116460518550396,16.0,Mtk Processor,2.0,8.0,128.0,64.0,Budget
+"Apple iPhone 16 (Teal, 256 GB)",Apple,79900,4.6,12.113491239234605,5755.0,"A18 Chip, 6 Core Processor Processor",1.0,8.0,128.0,2048.0,Premium
+Kechaoda A26,Kechaoda,889,4.0,10.293398993717526,1617.0,NA Processor,1.0,8.0,128.0,16.0,Budget
+"realme 14 Pro+ 5G (Bikaner Purple, 256 GB)",realme,25999,4.4,9.642447411030767,1853.0,7s Gen 3 Mobile Platform Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Samsung Galaxy S25 5G (Silver Shadow, 256 GB)",Samsung,80999,4.6,7.895063498091573,305.0,8 Elite Processor,1.0,12.0,256.0,2048.0,Premium
+"MOTOROLA Edge 60 5G (PANTONE Shamrock, 256 GB)",MOTOROLA,25999,4.3,8.550821372396221,365.0,Dimensity 7400 Processor,1.0,12.0,256.0,1024.0,Mid-Range
+"OnePlus Nord 5 5G (Dry Ice, 256 GB)",OnePlus,32993,4.5,6.86484777797086,52.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Premium
+"REDMI Note 14 5G (Titan Black, 256 GB)",REDMI,17837,4.2,8.023552392404348,164.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+Kechaoda A26,Kechaoda,874,4.0,10.293398993717526,1617.0,NA Processor,1.0,8.0,128.0,16.0,Budget
+"Apple iPhone 16 Pro (Black Titanium, 256 GB)",Apple,119900,4.7,10.210383843911714,1177.0,"A18 Pro Chip, 6 Core Processor Processor",1.0,8.0,128.0,2048.0,Premium
+"Samsung Galaxy F16 5G (Vibing Blue, 128 GB)",Samsung,13999,4.2,9.15978364835903,552.0,Dimensity 6300 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"Apple iPhone 16e (Black, 256 GB)",Apple,61999,4.5,7.4360278163518485,113.0,"A18 Chip, 6 Core Processor",1.0,8.0,128.0,2048.0,Premium
+"IQOO Z10R 5G (Moonstone, 128 GB)",IQOO,18799,4.4,7.785305182539862,135.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"realme P3 Ultra 5G (Glowing Lunar White, 256 GB)",realme,23999,4.5,8.021912778985708,297.0,Dimensity 8350 Ultra Processor,1.0,12.0,256.0,2048.0,Mid-Range
+"OnePlus Nord CE5 5G (Marble Mist, 256 GB)",OnePlus,26990,4.5,8.512180649592693,278.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"IQOO Neo 10R 5G (MoonKnight Titanium, 256 GB)",IQOO,27749,4.5,8.464425125877582,306.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Tecno Spark Go 5G (Sky Blue, 128 GB)",Tecno,10999,4.3,7.0317412587631285,102.0,Dimensity 6400 5G Processor,1.0,4.0,128.0,1024.0,Mid-Range
+"realme Narzo 80 Lite 4G (Beach Gold, 128 GB)",realme,8154,4.3,6.717804695023691,45.0,Samsung Exynos 1380 Processor,1.0,6.0,128.0,2048.0,Budget
+"IQOO Z10R 5G (Aquamarine, 128 GB)",IQOO,18732,4.4,7.785305182539862,135.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"realme P3 5G (Space Silver, 128 GB)",realme,16999,4.4,9.979336864819565,1389.0,6 Gen 4 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"realme P3 5G (Comet Grey, 128 GB)",realme,15999,4.4,10.34009596741305,1977.0,6 Gen 4 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"realme P3 5G (Comet Grey, 128 GB)",realme,16999,4.4,9.979336864819565,1389.0,6 Gen 4 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"realme Narzo 80x 5G (Sunlit Gold, 128 GB)",realme,14999,4.3,7.592366128519796,77.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"REDMI 13 5G (Orchid Pink, 128 GB)",REDMI,12245,4.2,9.523617089089445,737.0,Qualcomm SM4450 Snapdragon 4 Gen 2 AE (4 nm) Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Motorola G85 5G (Viva Magenta, 128 GB)",Motorola,15999,4.4,12.438441512462264,12522.0,6s Gen 3 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"REDMI 13 5G (Orchid Pink, 128 GB)",REDMI,12999,4.3,10.777079529877168,2383.0,Qualcomm SM4450 Snapdragon 4 Gen 2 AE (4 nm) Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"Ai+ Pulse (Green, 128 GB)",Ai+,6999,4.0,8.202482446576537,235.0,T615 Processor,1.0,6.0,128.0,1024.0,Budget
+"REDMI 13 5G (Hawaiian Blue, 128 GB)",REDMI,12208,4.2,9.523617089089445,737.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"KARBONN K9 Sleek,Dual SIM,Keypad Mobile,2.4""Corved Glass,1750mAh Battery,Expandable,32GB",KARBONN,1253,3.9,5.849324779946859,27.0,NA Processor,1.0,8.0,128.0,32.0,Budget
+LAVA Hero Shakti 2025,LAVA,989,4.1,5.272999558563747,7.0,Mtk Processor,1.0,8.0,32.0,32.0,Budget
+"REDMI A3X (Ocean Green, 64 GB)",REDMI,6699,4.0,9.466299552232016,565.0,Samsung Exynos 1380 Processor,1.0,3.0,64.0,1024.0,Budget
+"REDMI A3X (Midnight Black, 64 GB)",REDMI,6699,4.0,9.466299552232016,565.0,Samsung Exynos 1380 Processor,1.0,3.0,64.0,1024.0,Budget
+"realme P4 Pro 5G (Birch Wood, 128 GB)",realme,22999,4.4,9.550520013385718,1166.0,Snapdragon 7 Gen 4 Mobile Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Infinix Hot 60 5G+ (Tundra Green, 128 GB)",Infinix,10499,4.3,7.736743682453495,135.0,Dimensity 7020 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"REDMI Note 14 5G (Mystique White, 128 GB)",REDMI,15588,4.2,8.023552392404348,164.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"realme P3 Ultra 5G (Orion Red, 256 GB)",realme,23999,4.5,8.021912778985708,297.0,Dimensity 8350 Ultra Processor,1.0,12.0,256.0,2048.0,Mid-Range
+"Samsung Galaxy S24 5G Snapdragon (Cobalt Violet, 256 GB)",Samsung,45999,4.6,10.650957184950148,2342.0,8 Gen 3 Processor,1.0,8.0,256.0,2048.0,Premium
+"Apple iPhone 17 Pro (Cosmic Orange, 512 GB)",Apple,154900,4.7,6.20455776256869,37.0,"A19 Chip, 6 Core Processor Processor",1.0,8.0,128.0,2048.0,Premium
+"REDMI A4 (Sparkle Purple, 128 GB)",REDMI,9188,4.3,9.353834471614912,489.0,Samsung Exynos 1380 Processor,1.0,4.0,128.0,2048.0,Budget
+"MOTOROLA Edge 60 Pro (Pantone Dazzling Blue, 256 GB)",MOTOROLA,33999,4.3,9.405002140854743,1018.0,Dimensity 8350 Processor,1.0,12.0,256.0,2048.0,Premium
+"Samsung Galaxy A16 5G (Gold, 128 GB)",Samsung,13958,4.2,8.231908243564177,167.0,Dimensity 6300 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"MOTOROLA Edge 60 Pro (Pantone Dazzling Blue, 256 GB)",MOTOROLA,29999,4.3,10.576865605238781,2939.0,Dimensity 8350 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"realme 14 Pro+ 5G (Suede Grey, 128 GB)",realme,29999,4.4,9.642447411030767,1853.0,7s Gen 3 Mobile Platform Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"realme 14 Pro+ 5G (Pearl White, 128 GB)",realme,29999,4.4,9.642447411030767,1853.0,7s Gen 3 Mobile Platform Processor,1.0,8.0,128.0,2048.0,Mid-Range
+Kechaoda A26,Kechaoda,898,4.0,10.293398993717526,1617.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,16.0,Budget
+"Samsung Galaxy A16 5G (Light Green, 128 GB)",Samsung,13969,4.2,8.231908243564177,167.0,Dimensity 6300 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"Tecno Pova 7 5G (Oasis Green, 128 GB)",Tecno,13749,4.4,8.907883013942248,560.0,Dimensity 7300 Ultimate Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"realme P3 Ultra 5G (Orion Red, 256 GB)",realme,22999,4.4,9.713657880251851,1640.0,Dimensity 8350 Ultra Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"IQOO Z10R 5G (Moonstone, 256 GB)",IQOO,21990,4.4,7.785305182539862,135.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"REDMI A5 (Pondicherry Blue, 64 GB)",REDMI,6499,4.1,8.58858318750291,246.0,T7250 Processor,1.0,3.0,64.0,2048.0,Budget
+"IQOO Z10R 5G (Moonstone, 256 GB)",IQOO,23500,4.3,5.459585514144159,18.0,Samsung Exynos 1380 Processor,1.0,12.0,256.0,2048.0,Mid-Range
+"IQOO Z10R 5G (Aquamarine, 256 GB)",IQOO,21821,4.4,7.785305182539862,135.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"IQOO Z10 5G (Stellar Black / Black, 128 GB)",IQOO,20799,4.4,8.349957272040324,203.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Apple iPhone 16 Plus (Pink, 256 GB)",Apple,81999,4.6,8.28349412616251,211.0,"A18 Chip, 6 Core Processor Processor",1.0,8.0,128.0,2048.0,Premium
+LAVA A2 Smart,LAVA,1186,4.1,4.74493212836325,5.0,Mtk Processor,1.0,8.0,128.0,32.0,Budget
+"KARBONN K9 Jumbo,Dual Keypad Mobile,2.4 Big LCD,2MP Camera,1800mAh Battery,FM,Vibratore",KARBONN,1363,4.1,6.551080335043404,30.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,32.0,Budget
+itel Ace2 Power,itel,1149,4.1,6.4425401664681985,34.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,32.0,Budget
+"realme P3 Ultra 5G (Neptune Blue, 256 GB)",realme,23999,4.5,8.021912778985708,297.0,Dimensity 8350 Ultra Processor,1.0,12.0,256.0,2048.0,Mid-Range
+"REDMI A5 (Just Black, 64 GB)",REDMI,6499,4.1,8.58858318750291,246.0,T7250 Processor,1.0,3.0,64.0,2048.0,Budget
+"MOTOROLA Edge 60 Pro (Pantone Walnut, 256 GB)",MOTOROLA,33999,4.3,9.405002140854743,1018.0,Dimensity 8350 Processor,1.0,12.0,256.0,2048.0,Premium
+"REDMI A3X (Midnight Black, 64 GB)",REDMI,6745,4.1,9.172742341560864,401.0,Samsung Exynos 1380 Processor,1.0,4.0,64.0,1024.0,Budget
+"REDMI A3X (Ocean Green, 64 GB)",REDMI,6860,4.1,9.172742341560864,401.0,Samsung Exynos 1380 Processor,1.0,4.0,64.0,1024.0,Budget
+FONEME FM2,FONEME,575,3.5,8.0323601479245,135.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,32.0,Budget
+"Samsung Galaxy A06 (Light Blue, 128 GB)",Samsung,8799,4.1,5.8664680569332965,21.0,Mediatek Helio G85 Processor,1.0,4.0,128.0,1024.0,Budget
+LAVA A1 Josh BOL,LAVA,959,4.0,10.025218341107275,1000.0,Mtk Processor,1.0,8.0,128.0,32.0,Budget
+"LAVA Shark 5G (stellar gold /steller gold, 64 GB)",LAVA,7988,4.0,5.298317366548036,11.0,Samsung Exynos 1380 Processor,1.0,4.0,64.0,2048.0,Budget
+"IQOO Z10 5G (Glacier Silver / Silver, 256 GB)",IQOO,23799,4.4,8.349957272040324,203.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"REDMI A5 (Jaisalmer Gold, 128 GB)",REDMI,7499,4.2,8.287780027088433,198.0,T7250 Processor,1.0,4.0,128.0,2048.0,Budget
+"IQOO Z10R 5G (Aquamarine, 256 GB)",IQOO,23432,4.3,5.459585514144159,18.0,Samsung Exynos 1380 Processor,1.0,12.0,256.0,2048.0,Mid-Range
+"IQOO Neo 10 (Inferno Red, 512 GB)",IQOO,42990,4.7,4.859812404361672,6.0,Qualcomm Processor,1.0,16.0,512.0,2048.0,Premium
+"Infinix Note 50s 5G+ 45W Charger In the Box & AI (Titanium Grey, 256 GB)",Infinix,18999,4.4,10.06172985026664,2015.0,Dimensity 7300 Ultimate Processor,1.0,8.0,256.0,2048.0,Mid-Range
+Jmax KING,Jmax,650,3.5,5.420534999272286,9.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"IQOO Neo 10 (Inferno Red, 256 GB)",IQOO,37795,4.5,6.61338421837956,54.0,Qualcomm Processor,1.0,12.0,256.0,2048.0,Premium
+Kechaoda A26,Kechaoda,889,4.0,10.293398993717526,1617.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,16.0,Budget
+"REDMI 15 5G (Sandy Purple, 256 GB)",REDMI,16489,4.2,7.458186157340487,87.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Infinix SMART 10 (Titanium Silver, 64 GB)",Infinix,6799,4.3,6.664409020350408,54.0,UniSoc T7250 Processor,1.0,4.0,64.0,2048.0,Budget
+"Infinix SMART 10 (Sleek Black, 64 GB)",Infinix,6799,4.3,6.664409020350408,54.0,UniSoc T7250 Processor,1.0,4.0,64.0,2048.0,Budget
+"Infinix SMART 10 (Twilight Gold, 64 GB)",Infinix,6799,4.3,6.664409020350408,54.0,UniSoc T7250 Processor,1.0,4.0,64.0,2048.0,Budget
+"realme P3 5G (Space Silver, 256 GB)",realme,18499,4.4,9.979336864819565,1389.0,6 Gen 4 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"realme P3 5G (Nebula Pink, 128 GB)",realme,16999,4.4,9.979336864819565,1389.0,6 Gen 4 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Infinix SMART 10 (Iris Blue, 64 GB)",Infinix,6799,4.3,6.664409020350408,54.0,UniSoc T7250 Processor,1.0,4.0,64.0,2048.0,Budget
+"IQOO Neo 10R 5G (MoonKnight Titanium, 256 GB)",IQOO,30378,4.5,7.80710329012598,157.0,Samsung Exynos 1380 Processor,1.0,12.0,256.0,2048.0,Premium
+"Ai+ Nova 5G (Black, 128 GB)",Ai+,8999,4.1,9.759386208561871,1161.0,T8200 Processor,1.0,6.0,128.0,1024.0,Budget
+"REDMI 14C 5G (Starlight Blue, 128 GB)",REDMI,10723,4.2,9.002331708246244,414.0,4 Gen 2 5G Processor,1.0,6.0,128.0,1024.0,Mid-Range
+LAVA A1 Josh BOL,LAVA,959,4.0,10.025218341107275,1000.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,32.0,Budget
+"OPPO A3x 5G (Starlight White, 64 GB)",OPPO,10499,4.2,8.48528964240323,188.0,Dimensity 6300 Processor,1.0,4.0,64.0,2048.0,Mid-Range
+"Ai+ Pulse (Black, 128 GB)",Ai+,6999,4.0,8.202482446576537,235.0,T615 Processor,1.0,6.0,128.0,1024.0,Budget
+"Tecno Pova 7 5G (Geek Black, 256 GB)",Tecno,15999,4.4,8.907883013942248,560.0,Dimensity 7300 Ultimate Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Infinix Note 50s 5G+ 45W Charger In the Box & AI (Marine Drift, 128 GB)",Infinix,16999,4.4,10.06172985026664,2015.0,Dimensity 7300 Ultimate Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Samsung Galaxy S24 5G Snapdragon (Amber Yellow, 128 GB)",Samsung,40999,4.6,10.650957184950148,2342.0,8 Gen 3 Processor,1.0,8.0,128.0,2048.0,Premium
+"Infinix SMART 9 HD (Neo Titanium, 64 GB)",Infinix,6699,4.1,8.37378460812088,262.0,Mediatek Helio G50 Processor,1.0,3.0,64.0,1024.0,Budget
+"Infinix Note 50s 5G+ 45W Charger In the Box & AI (Burgundy Red, 256 GB)",Infinix,18999,4.4,10.06172985026664,2015.0,Dimensity 7300 Ultimate Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"REDMI Note 14 5G (Phantom Purple, 256 GB)",REDMI,17790,4.2,8.023552392404348,164.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"realme 14 Pro+ 5G (Suede Grey, 256 GB)",realme,26999,4.4,9.000853147109458,893.0,7s Gen 3 Mobile Platform Processor,1.0,12.0,256.0,2048.0,Mid-Range
+"realme 14 Pro+ 5G (Pearl White, 256 GB)",realme,26999,4.4,9.000853147109458,893.0,7s Gen 3 Mobile Platform Processor,1.0,12.0,256.0,2048.0,Mid-Range
+"Apple iPhone 16e (White, 128 GB)",Apple,51999,4.5,7.4360278163518485,113.0,"A18 Chip, 6 Core Processor",1.0,8.0,128.0,2048.0,Premium
+"Infinix Note 50s 5G+ 45W Charger In the Box & AI (Burgundy Red, 128 GB)",Infinix,16999,4.4,10.06172985026664,2015.0,Dimensity 7300 Ultimate Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"IQOO Neo 10 (Inferno Red, 128 GB)",IQOO,33799,4.6,6.951772164398911,80.0,Qualcomm sd Processor,1.0,8.0,128.0,2048.0,Premium
+"IQOO Neo 10 (Inferno Red, 256 GB)",IQOO,36168,4.6,6.951772164398911,80.0,Qualcomm Processor,1.0,8.0,256.0,2048.0,Premium
+"REDMI 15 5G (Midnight Black, 256 GB)",REDMI,16561,4.2,7.458186157340487,87.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"OnePlus Nord 5 5G (Phantom Grey, 512 GB)",OnePlus,38888,4.5,6.9363427358340495,82.0,Samsung Exynos 1380 Processor,1.0,12.0,512.0,2048.0,Premium
+"Samsung Galaxy M35 5G (Thunder Grey, 128 GB)",Samsung,16370,4.4,10.258466058337035,2167.0,Samsung Exynos 1380 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"realme P3 5G (Nebula Pink, 256 GB)",realme,18499,4.4,9.979336864819565,1389.0,6 Gen 4 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Infinix SMART 9 HD (Coral Gold, 64 GB)",Infinix,6699,4.1,8.37378460812088,262.0,Mediatek Helio G50 Processor,1.0,3.0,64.0,1024.0,Budget
+"vivo T4 Pro 5G (Blaze Gold, 256 GB)",vivo,29999,4.5,9.205327830152639,639.0,7 Gen 4 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Samsung Galaxy M06 5G (Blazing Black, 64 GB)",Samsung,8662,3.8,4.3694478524670215,4.0,Samsung Exynos 1380 Processor,1.0,4.0,64.0,2048.0,Budget
+"Motorola Edge 50 Neo (PANTONE Poinciana, 256 GB)",Motorola,20999,4.4,10.366907053904848,3017.0,Dimensity 7300 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Ai+ Nova 5G (Blue, 128 GB)",Ai+,8999,4.1,9.759386208561871,1161.0,T8200 Processor,1.0,6.0,128.0,1024.0,Budget
+"REDMI 14C 5G (Stardust Purple, 128 GB)",REDMI,9885,4.2,8.98054977794018,399.0,4 Gen 2 5G Processor,1.0,4.0,128.0,1024.0,Budget
+"vivo T4 Pro 5G (Blaze Gold, 128 GB)",vivo,27999,4.5,9.205327830152639,639.0,7 Gen 4 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"vivo V50e 5G (Sapphire Blue, 256 GB)",vivo,25675,4.4,7.950854857719988,169.0,Dimensity 7300 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"vivo T4 Pro 5G (Nitro Blue, 256 GB)",vivo,29999,4.5,9.205327830152639,639.0,7 Gen 4 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"REDMI 14C 5G (Stardust Purple, 128 GB)",REDMI,9999,4.2,8.98054977794018,399.0,4 Gen 2 5G Processor,1.0,4.0,128.0,1024.0,Budget
+"Samsung Galaxy F06 5G (Bahama Blue, 128 GB)",Samsung,9999,4.1,10.468403555198991,2109.0,Dimensity 6300 Processor,1.0,4.0,128.0,1500.0,Budget
+"OnePlus Nord 5 5G (Dry Ice, 256 GB)",OnePlus,35414,4.5,6.9363427358340495,82.0,Samsung Exynos 1380 Processor,1.0,12.0,256.0,2048.0,Premium
+"LAVA Shark (Titanium Gold, 64 GB)",LAVA,6999,3.9,4.997212273764115,7.0,UNISOC T606 octa-core processor Processor,1.0,4.0,64.0,256.0,Budget
+Kechaoda K115,Kechaoda,973,4.1,10.659726896262056,2686.0,NA Processor,1.0,8.0,128.0,32.0,Budget
+"Samsung Galaxy S25 Plus 5G (Silver Shadow, 256 GB)",Samsung,74999,4.7,4.762173934797756,19.0,8 Elite for Galxy Processor,1.0,12.0,256.0,2048.0,Premium
+"realme 14 Pro+ 5G (Bikaner Purple, 128 GB)",realme,29999,4.4,9.642447411030767,1853.0,7s Gen 3 Mobile Platform Processor,1.0,8.0,128.0,2048.0,Mid-Range
+LAVA A1 Josh,LAVA,949,4.2,10.023179875454133,2118.0,Mtk Processor,1.0,8.0,128.0,32.0,Budget
+Kechaoda K115,Kechaoda,978,4.1,10.659726896262056,2686.0,NA Processor,1.0,8.0,128.0,32.0,Budget
+"realme P4 Pro 5G (Birch Wood, 256 GB)",realme,26999,4.4,7.990576881743923,253.0,Snapdragon 7 Gen 4 Mobile Processor,1.0,12.0,256.0,2048.0,Mid-Range
+"realme P4 Pro 5G (Dark Oak Wood, 256 GB)",realme,26999,4.4,7.990576881743923,253.0,Snapdragon 7 Gen 4 Mobile Processor,1.0,12.0,256.0,2048.0,Mid-Range
+"OnePlus Nord CE4 (Dark Chrome, 256 GB)",OnePlus,24900,4.4,10.202295007771328,1475.0,OxygenOS 14.0 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+Kechaoda A26_Grey,Kechaoda,873,3.8,6.068425588244111,7.0,NA Processor,1.0,8.0,16.0,2048.0,Budget
+Kechaoda K115,Kechaoda,988,4.1,10.659726896262056,2686.0,NA Processor,1.0,8.0,128.0,32.0,Budget
+"OPPO F29 5G (Solid Purple, 256 GB)",OPPO,22000,4.4,7.815207062189088,138.0,6 Gen 1 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"POCO X7 Pro 5G (Nebula Green, 256 GB)",POCO,22999,4.4,8.906935339059165,743.0,Dimensity D8400 Ultra Processor,1.0,12.0,256.0,2048.0,Mid-Range
+"IQOO Z10 5G (Glacier Silver / Silver, 256 GB)",IQOO,26399,4.4,6.881411303642535,58.0,Samsung Exynos 1380 Processor,1.0,12.0,256.0,2048.0,Mid-Range
+"OPPO A3x 5G (Starry Purple, 128 GB)",OPPO,11499,4.2,8.48528964240323,188.0,Dimensity 6300 Processor,1.0,4.0,128.0,2048.0,Mid-Range
+"OPPO A3x 5G (Starlight White, 128 GB)",OPPO,11490,4.2,8.48528964240323,188.0,Dimensity 6300 Processor,1.0,4.0,128.0,2048.0,Mid-Range
+"realme P3 Ultra 5G (Neptune Blue, 256 GB)",realme,22999,4.4,9.713657880251851,1640.0,Dimensity 8350 Ultra Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"realme P4 Pro 5G (Midnight Ivy, 256 GB)",realme,24999,4.4,9.550520013385718,1166.0,Snapdragon 7 Gen 4 Mobile Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"realme P4 Pro 5G (Birch Wood, 256 GB)",realme,24999,4.4,9.550520013385718,1166.0,Snapdragon 7 Gen 4 Mobile Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"realme P3 Ultra 5G (Glowing Lunar White, 128 GB)",realme,21999,4.4,9.713657880251851,1640.0,Dimensity 8350 Ultra Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"realme P3 Ultra 5G (Orion Red, 128 GB)",realme,21999,4.4,9.713657880251851,1640.0,Dimensity 8350 Ultra Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Samsung Galaxy M35 5G (DayBreak Blue, 128 GB)",Samsung,17330,4.3,8.60557030203365,350.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"vivo V50e 5G (Pearl White, 256 GB)",vivo,26899,4.4,7.950854857719988,169.0,Dimensity 7300 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"realme Narzo 80x 5G (Sunlit Gold, 128 GB)",realme,12539,4.2,7.301147805856032,55.0,Samsung Exynos 1380 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"realme 14x 5G (Golden Glow, 128 GB)",realme,13929,4.3,9.50390510758612,662.0,Dimensity 6300 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"REDMI 15 5G (Frosted White, 128 GB)",REDMI,14075,4.2,6.6293632534374485,45.0,Samsung Exynos 1380 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"Ai+ Pulse (Green, 64 GB)",Ai+,5999,4.3,10.47861104348485,2212.0,T615 Processor,1.0,4.0,64.0,1024.0,Budget
+LAVA A5 2025,LAVA,1295,4.1,9.040500592684284,689.0,Mtk Processor,1.0,8.0,128.0,32.0,Budget
+"OPPO F29 Pro 5G (Granite Black, 128 GB)",OPPO,20420,4.4,7.427738840532894,124.0,Dimensity 7300 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Tecno Pova 7 5G (Magic Silver, 256 GB)",Tecno,15999,4.4,8.907883013942248,560.0,Dimensity 7300 Ultimate Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"OnePlus Nord 5 5G (Dry Ice, 256 GB)",OnePlus,32390,4.5,6.86484777797086,52.0,Qualcomm® Snapdragon™ 8s Gen 3 Mobile Platform Processor,1.0,8.0,256.0,2048.0,Premium
+"REDMI 15 5G (Midnight Black, 128 GB)",REDMI,14470,4.2,6.6293632534374485,45.0,Samsung Exynos 1380 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"realme 14x 5G (Jewel Red, 128 GB)",realme,14957,4.4,8.986446539271268,405.0,Dimensity 6300 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Google Pixel 10 (Frost, 256 GB)",Google,79999,4.5,6.84587987526405,67.0,Tensor G5 Processor,1.0,12.0,256.0,2048.0,Premium
+"vivo T4 Pro 5G (Nitro Blue, 256 GB)",vivo,31999,4.5,7.823245690685523,179.0,7 Gen 4 Processor,1.0,12.0,256.0,2048.0,Premium
+Kechaoda K33,Kechaoda,999,4.0,9.308917935337178,620.0,No Processor,1.0,8.0,128.0,32.0,Budget
+"Tecno Spark Go 5G (Turquoise Green, 128 GB)",Tecno,10999,4.3,7.0317412587631285,102.0,Dimensity 6400 5G Processor,1.0,4.0,128.0,1024.0,Mid-Range
+"Redmi Note 4 (Gold, 32 GB)",Redmi,5999,4.4,13.368590442525514,108978.0,Qualcomm Snapdragon 625 64-bit Octa Core 2GHz Processor,1.0,3.0,32.0,128.0,Budget
+"Tecno Pova 7 Pro 5G (Geek Black, 128 GB)",Tecno,17749,4.4,7.932003152361385,312.0,Dimensity 7300 Ultimate Processor,1.0,8.0,128.0,2048.0,Mid-Range
+Kechaoda A27,Kechaoda,889,4.0,9.65598726971718,861.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"vivo V50e 5G (Pearl White, 128 GB)",vivo,23798,4.4,7.950854857719988,169.0,Dimensity 7300 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"OnePlus Nord 5 5G (Marble Sands, 256 GB)",OnePlus,35389,4.5,6.9363427358340495,82.0,Samsung Exynos 1380 Processor,1.0,12.0,256.0,2048.0,Premium
+"realme 14x 5G (Golden Glow, 128 GB)",realme,14975,4.4,8.986446539271268,405.0,Dimensity 6300 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"REDMI Note 14 5G (Titan Black, 128 GB)",REDMI,15170,4.2,8.023552392404348,164.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Samsung M55s (Thunder Black, 128 GB)",Samsung,18599,4.1,5.703782474656201,21.0,snapdragon Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"OPPO Find X9 (Space Black, 256 GB)",OPPO,74999,4.5,2.772588722239781,2.0,Dimensity 9500 Processor,1.0,12.0,256.0,2048.0,Premium
+"OPPO Find X9 (Titanium Grey, 256 GB)",OPPO,74999,4.5,2.772588722239781,2.0,Dimensity 9500 Processor,1.0,12.0,256.0,2048.0,Premium
+"Samsung Galaxy F55 5G (Apricot Crush, 256 GB)",Samsung,21698,4.1,6.918695219020472,107.0,7 Gen 1 Processor,1.0,12.0,256.0,1024.0,Mid-Range
+"IQOO Z10 5G (Glacier Silver, 128 GB)",IQOO,23000,4.4,8.349957272040324,203.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"IQOO Z10R 5G (Moonstone, 256 GB)",IQOO,23534,4.3,5.459585514144159,18.0,Samsung Exynos 1380 Processor,1.0,12.0,256.0,2048.0,Mid-Range
+"realme 15 Pro 5G (Velvet Green, 128 GB)",realme,31999,4.3,8.863615758890619,631.0,Snapdragon 7 Gen 4 Processor,1.0,8.0,128.0,2048.0,Premium
+"realme 15 Pro 5G (Flowing Silver, 128 GB)",realme,31999,4.3,8.863615758890619,631.0,Snapdragon 7 Gen 4 Processor,1.0,8.0,128.0,2048.0,Premium
+Nokia 110 4G,Nokia,2299,3.9,7.242797922793756,85.0,T107 Processor,1.0,8.0,128.0,2048.0,Budget
+"realme 15 Pro 5G (Flowing Silver, 256 GB)",realme,33999,4.3,8.863615758890619,631.0,Snapdragon 7 Gen 4 Processor,1.0,8.0,256.0,2048.0,Premium
+Jio F220B,Jio,1406,3.0,5.62040086571715,18.0,Samsung Exynos 1380 Processor,1.0,8.0,0.0,2048.0,Budget
+"vivo T3 Pro 5G (Emerald Green, 128 GB)",vivo,22999,4.5,11.420700520927712,5583.0,Snapdragon 7 Gen 3 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+itel it5262,itel,1499,4.0,7.669495251007694,115.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,32.0,Budget
+"MOTOROLA g35 5G (Guava Red, 128 GB)",MOTOROLA,11999,4.2,7.763446388727362,107.0,T760 Processor,1.0,8.0,128.0,1024.0,Mid-Range
+"Tecno Pop 9 5G (Azure Sky, 128 GB)",Tecno,9499,4.1,7.136483208590247,58.0,Dimensity 6300 5G Processor,1.0,8.0,128.0,1024.0,Budget
+"realme 15 Pro 5G (Silk Purple, 256 GB)",realme,35999,4.3,8.282483003730562,313.0,Snapdragon 7 Gen 4 Processor,1.0,12.0,256.0,2048.0,Premium
+"realme 15 Pro 5G (Flowing Silver, 256 GB)",realme,35999,4.3,8.282483003730562,313.0,Snapdragon 7 Gen 4 Processor,1.0,12.0,256.0,2048.0,Premium
+"Samsung Galaxy S24 Ultra 5G (Titanium Black, 256 GB)",Samsung,88794,4.6,8.870382066070137,531.0,Snapdragon 8 Gen 3 Processor,1.0,12.0,256.0,2048.0,Premium
+"OPPO F31 5G (Midnight Blue, 256 GB)",OPPO,25999,4.2,6.81783057145415,49.0,Dimensity 6300 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"IQOO Neo 10R 5G (MoonKnight Titanium, 128 GB)",IQOO,26440,4.5,8.464425125877582,306.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+LAVA Hero Shakti 2025,LAVA,900,4.1,5.272999558563747,7.0,Mtk Processor,1.0,8.0,32.0,32.0,Budget
+"OnePlus Nord 5 5G (Phantom Grey, 256 GB)",OnePlus,35550,4.5,6.9363427358340495,82.0,Samsung Exynos 1380 Processor,1.0,12.0,256.0,2048.0,Premium
+"LAVA Bold N1 Pro (Stealth Black, 128 GB)",LAVA,7399,3.9,5.3230099791384085,13.0,Samsung Exynos 1380 Processor,1.0,4.0,128.0,2048.0,Budget
+"Samsung Galaxy F36 5G (Red, 128 GB)",Samsung,17499,4.2,8.23031079913502,267.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Tecno Pova 7 Pro 5G (Neon Cyan, 128 GB)",Tecno,17749,4.4,7.932003152361385,312.0,Dimensity 7300 Ultimate Processor,1.0,8.0,128.0,2048.0,Mid-Range
+GFive A2 - C,GFive,554,3.5,4.060443010546419,5.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"Tecno Spark Go 5G (Ink Black, 128 GB)",Tecno,10999,4.3,7.0317412587631285,102.0,Dimensity 6400 5G Processor,1.0,4.0,128.0,1024.0,Mid-Range
+"Google Pixel 6a (Charcoal, 128 GB)",Google,43999,4.3,11.237975329663158,8527.0,Google Tensor Processor,1.0,6.0,128.0,2048.0,Premium
+"Redmi 4 (Gold, 32 GB)",Redmi,5999,4.2,9.03884005381381,776.0,Snapdragon 435 Processor,1.0,3.0,32.0,128.0,Budget
+"realme 15 Pro 5G (Flowing Silver, 512 GB)",realme,38999,4.3,8.282483003730562,313.0,Snapdragon 7 Gen 4 Processor,1.0,12.0,512.0,2048.0,Premium
+"Tecno Pova 7 Pro 5G (Dynamic Grey, 256 GB)",Tecno,18749,4.4,7.932003152361385,312.0,Dimensity 7300 Ultimate Processor,1.0,8.0,256.0,2048.0,Mid-Range
+Jmax POPS 8,Jmax,499,3.7,4.394449154672439,4.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+Jio BHARAT B2,Jio,1565,3.7,8.217438537730187,180.0,NA Processor,1.0,8.0,128.0,128.0,Budget
+MOTOROLA Moto A200,MOTOROLA,1339,3.9,6.255750041753367,58.0,NA Processor,2.0,8.0,128.0,64.0,Budget
+"MOTOROLA Razr 60 (PANTONE Spring Bud, 256 GB)",MOTOROLA,49999,4.4,7.498869733976931,131.0,Dimensity 7400X Processor,1.0,8.0,256.0,2048.0,Premium
+"REDMI 14C 5G (Stargaze Black, 128 GB)",REDMI,9999,4.2,8.98054977794018,399.0,4 Gen 2 5G Processor,1.0,4.0,128.0,1024.0,Budget
+"Apple iPhone 17 Pro Max (Silver, 512 GB)",Apple,169900,4.8,5.713732805509369,31.0,"A19 Chip, 6 Core Processor Processor",1.0,8.0,128.0,2048.0,Premium
+"Amozkart T400 3 in 1 Combo Pack with Smartphone Smartwatch With Earbuds (Gold, 16 GB)",Amozkart,6000,4.3,8.262816937670928,279.0,Samsung Exynos 1380 Processor,1.0,2.0,16.0,2048.0,Budget
+"Infinix GT 30 Pro 5G+ (Blade White, 256 GB)",Infinix,24999,4.4,7.5310163320779155,131.0,Dimensity 8350 Ultimate Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Samsung Galaxy S25 5G (Icyblue, 256 GB)",Samsung,80999,4.6,7.895063498091573,305.0,8 Elite for Galaxy Processor,1.0,12.0,256.0,2048.0,Premium
+Kechaoda K33,Kechaoda,989,4.0,9.308917935337178,620.0,NA Processor,1.0,8.0,128.0,32.0,Budget
+Jio Bharat V-4 -4g Phone,Jio,765,3.8,4.74493212836325,6.0,mediatek Processor,1.0,8.0,128.0,128.0,Budget
+"Samsung Galaxy F06 5G (Bahama Blue, 64 GB)",Samsung,8999,4.1,10.468403555198991,2109.0,Dimensity 6300 Processor,1.0,4.0,64.0,1500.0,Budget
+"Ai+ Pulse (Blue, 128 GB)",Ai+,6999,4.0,8.202482446576537,235.0,T615 Processor,1.0,6.0,128.0,1024.0,Budget
+hmd 110,hmd,1164,3.9,6.318968113746434,38.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"Ai+ Nova 5G (Pink, 128 GB)",Ai+,9999,3.8,7.916807490937603,244.0,T8200 Processor,1.0,8.0,128.0,1024.0,Budget
+"REDMI 13 5G Prime Edition (Orchid Pink, 128 GB)",REDMI,12925,4.2,5.327876168789581,8.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+Kechaoda K33,Kechaoda,997,4.0,9.308917935337178,620.0,NA Processor,1.0,8.0,128.0,32.0,Budget
+"MOTOROLA g35 5G (Guava Red, 128 GB)",MOTOROLA,9999,4.2,11.576660538430138,6800.0,T760 Processor,1.0,4.0,128.0,1024.0,Budget
+itel Ace 3 Shine,itel,939,4.0,7.262628600974241,61.0,Unisoc Processor,1.0,8.0,128.0,32.0,Budget
+"LAVA Bold N1 Pro (Titanium Gold, 128 GB)",LAVA,7399,3.9,5.3230099791384085,13.0,Samsung Exynos 1380 Processor,1.0,4.0,128.0,2048.0,Budget
+"OPPO F29 5G (Solid Purple, 128 GB)",OPPO,18998,4.4,7.815207062189088,138.0,6 Gen 1 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Tecno Pop 9 5G (Aurora Cloud, 128 GB)",Tecno,9499,4.1,7.136483208590247,58.0,Dimensity 6300 5G Processor,1.0,8.0,128.0,1024.0,Budget
+"Tecno Pop 9 5G (Midnight Shadow, 128 GB)",Tecno,9499,4.1,7.136483208590247,58.0,Dimensity 6300 5G Processor,1.0,8.0,128.0,1024.0,Budget
+"Apple iPhone 16e (Black, 128 GB)",Apple,51999,4.5,7.4360278163518485,113.0,"A18 Chip, 6 Core Processor",1.0,8.0,128.0,2048.0,Premium
+"vivo V50e 5G (Sapphire Blue, 128 GB)",vivo,23650,4.4,7.950854857719988,169.0,Dimensity 7300 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"realme 15 Pro 5G (Velvet Green, 256 GB)",realme,35999,4.3,8.282483003730562,313.0,Snapdragon 7 Gen 4 Processor,1.0,12.0,256.0,2048.0,Premium
+"realme 15 Pro 5G (Silk Purple, 256 GB)",realme,33999,4.3,8.863615758890619,631.0,Snapdragon 7 Gen 4 Processor,1.0,8.0,256.0,2048.0,Premium
+"realme 15 Pro 5G (Velvet Green, 256 GB)",realme,33999,4.3,8.863615758890619,631.0,Snapdragon 7 Gen 4 Processor,1.0,8.0,256.0,2048.0,Premium
+"realme C73 5G (Jade Green, 128 GB)",realme,11995,4.2,7.189922170745808,66.0,Dimensity 6300 Processor,1.0,4.0,128.0,2048.0,Mid-Range
+"OPPO F29 Pro 5G (Marble White, 256 GB)",OPPO,25999,4.4,7.427738840532894,124.0,Dimensity 7300 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"realme 5 Pro (Crystal Green, 64 GB)",realme,14999,4.5,11.895012762423681,13905.0,Qualcomm Snapdragon SDM712 Octa Core 2.3 GHz Processor,1.0,4.0,64.0,256.0,Mid-Range
+"Ai+ Nova 5G (Sparkle Red, 128 GB)",Ai+,8999,4.1,9.759386208561871,1161.0,T8200 Processor,1.0,6.0,128.0,1024.0,Budget
+hmd 101 DS 4G TA-1727 DS,hmd,1879,4.0,2.4849066497880004,3.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"realme C73 5G (Crystal Purple, 128 GB)",realme,11999,4.2,7.189922170745808,66.0,Dimensity 6300 Processor,1.0,4.0,128.0,2048.0,Mid-Range
+"Ai+ Pulse (Sparkle Red, 128 GB)",Ai+,6999,4.0,8.202482446576537,235.0,T615 Processor,1.0,6.0,128.0,1024.0,Budget
+"OPPO F29 Pro 5G (Marble White, 128 GB)",OPPO,19840,4.4,7.427738840532894,124.0,Dimensity 7300 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+UiSmart Ui-06,UiSmart,1650,4.0,8.205764725234456,317.0,Feature Phone Processor,1.0,8.0,128.0,8.0,Budget
+Kechaoda K33,Kechaoda,998,4.0,9.308917935337178,620.0,NA Processor,1.0,8.0,128.0,32.0,Budget
+"Tecno Pova Curve 5G (Neon Cyan, 128 GB)",Tecno,15999,4.4,7.543273346705446,203.0,Dimensity 7300 Ultimate Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"Samsung Galaxy A55 5G (Awesome Navy, 256 GB)",Samsung,33945,4.3,6.4457198193855785,47.0,Samsung Exynos 1480 Processor,1.0,12.0,256.0,1024.0,Premium
+"Samsung Galaxy A06 5G (Light Green, 64 GB)",Samsung,9049,4.1,7.665284718471351,136.0,MEDIATEK Processor,1.0,4.0,64.0,1024.0,Budget
+"OPPO A5x (Midnight Blue, 128 GB)",OPPO,9999,4.2,3.7612001156935624,3.0,6s 4G Gen 1 Processor,1.0,4.0,128.0,2048.0,Budget
+"REDMI 14C 5G (Stardust Purple, 64 GB)",REDMI,9999,4.2,8.98054977794018,399.0,4 Gen 2 5G Processor,1.0,4.0,64.0,1024.0,Budget
+"realme C73 5G (Onyx Black, 64 GB)",realme,10450,4.2,7.189922170745808,66.0,Dimensity 6300 Processor,1.0,4.0,64.0,2048.0,Mid-Range
+"Tecno Pova Curve 5G (Geek Black, 128 GB)",Tecno,17999,4.3,7.067319848653476,124.0,Dimensity 7300 Ultimate Processor,1.0,8.0,128.0,2048.0,Mid-Range
+Jio JioBharat K2 Keypad Mobile,Jio,999,3.6,6.3561076606958915,19.0,Samsung Exynos 1380 Processor,1.0,8.0,4.0,2048.0,Budget
+"POCO M7 5G  - Locked with Airtel Prepaid (Satin Black, 128 GB)",POCO,8249,4.1,11.012198675881653,2844.0,4 Gen 2 5G Processor,1.0,6.0,128.0,1024.0,Budget
+"OPPO F29 Pro 5G (Granite Black, 256 GB)",OPPO,27999,4.4,6.877296071497429,44.0,Dimensity 7300 Processor,1.0,12.0,256.0,2048.0,Mid-Range
+"POCO C71  - Locked with Airtel Prepaid (Power Black, 64 GB)",POCO,5749,3.8,10.787874735397274,2213.0,"Unisoc T7250
+Max clock speed: 
+2 x A75@1.8GHz
+6 x A55@1.6GHz Processor",1.0,4.0,64.0,2048.0,Budget
+"REDMI 14C 5G (Starlight Blue, 128 GB)",REDMI,10999,4.2,9.002331708246244,414.0,4 Gen 2 5G Processor,1.0,6.0,128.0,1024.0,Mid-Range
+"OPPO A5 5G (Aurora Green, 128 GB)",OPPO,16999,4.3,4.48863636973214,1.0,Dimensity 6300 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+LAVA Hero Shakti 2025,LAVA,935,4.1,7.841885928984623,156.0,Mtk Processor,1.0,8.0,128.0,2048.0,Budget
+"vivo V60e (Noble Gold, 256 GB)",vivo,33999,4.4,6.2285110035911835,39.0,Dimensity 7360-Turbo Processor,1.0,12.0,256.0,2048.0,Premium
+"REDMI 14C 5G (Stargaze Black, 128 GB)",REDMI,10890,4.2,9.002331708246244,414.0,4 Gen 2 5G Processor,1.0,6.0,128.0,1024.0,Mid-Range
+FONEME FM-2 F316,FONEME,575,3.6,5.393627546352361,8.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"OPPO A5x (Midnight Blue, 64 GB)",OPPO,8999,4.2,3.7612001156935624,3.0,6s 4G Gen 1 Processor,1.0,4.0,64.0,2048.0,Budget
+Nokia 106,Nokia,1404,3.6,9.122273893107732,528.0,SC6531E Processor,1.0,8.0,128.0,2048.0,Budget
+"Samsung Galaxy S25 5G (Navy, 256 GB)",Samsung,80999,4.6,7.895063498091573,305.0,8 Elite for Galaxy Processor,1.0,12.0,256.0,2048.0,Premium
+"Tecno Pova 7 Pro 5G (Dynamic Grey, 128 GB)",Tecno,17749,4.4,7.932003152361385,312.0,Dimensity 7300 Ultimate Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Feather Pink, 128 GB)",OPPO,12999,4.5,12.165156896615112,6669.0,Dimensity 6300 Processor,1.0,6.0,128.0,1024.0,Mid-Range
+"Apple iPhone Air (Cloud White, 256 GB)",Apple,116900,4.8,3.5263605246161616,2.0,"A19 Chip, 6 Core Processor Processor",1.0,8.0,128.0,2048.0,Premium
+"Ai+ Nova 5G (Purple, 128 GB)",Ai+,9999,3.8,7.916807490937603,244.0,T8200 Processor,1.0,8.0,128.0,1024.0,Budget
+"Motorola g45 5G (Viva Magenta, 128 GB)",Motorola,9999,4.3,10.865382426215298,3060.0,Snapdragon 6s Gen 3 Processor,1.0,4.0,128.0,1024.0,Budget
+"Samsung Galaxy M35 5G (Thunder Grey, 128 GB)",Samsung,17644,4.3,8.60557030203365,350.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"MOTOROLA Edge 60 Pro (Pantone Walnut, 256 GB)",MOTOROLA,29999,4.3,10.576865605238781,2939.0,Dimensity 8350 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"vivo Y19 5G (Titanium Silver, 128 GB)",vivo,11499,4.3,7.373374309910049,63.0,Dimensity 6300 Processor,1.0,4.0,128.0,2048.0,Mid-Range
+"Tecno Pova Curve 5G (Magic Silver, 128 GB)",Tecno,17999,4.3,7.067319848653476,124.0,Dimensity 7300 Ultimate Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"IQOO Z10 5G (Stellar Black / Black, 256 GB)",IQOO,23480,4.4,8.349957272040324,203.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"POCO M7 Plus 5G (Chrome Silver, 128 GB)",POCO,11999,4.2,6.741700694652055,52.0,Snapdragon 6s Gen 3 5G Processor,1.0,4.0,128.0,2048.0,Mid-Range
+"OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Breeze Blue, 128 GB)",OPPO,12999,4.5,12.165156896615112,6669.0,Dimensity 6300 Processor,1.0,6.0,128.0,1024.0,Mid-Range
+"OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Midnight Violet, 128 GB)",OPPO,12999,4.5,12.165156896615112,6669.0,Dimensity 6300 Processor,1.0,6.0,128.0,1024.0,Mid-Range
+"REDMI 14C 5G (Starlight Blue, 128 GB)",REDMI,9999,4.2,8.98054977794018,399.0,4 Gen 2 5G Processor,1.0,4.0,128.0,1024.0,Budget
+"realme NARZO 80 Pro 5G (Speed Silver, 128 GB)",realme,17432,4.5,6.601230118728877,38.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"OPPO A5x (Laser White, 64 GB)",OPPO,8999,4.2,3.7612001156935624,3.0,6s 4G Gen 1 Processor,1.0,4.0,64.0,2048.0,Budget
+"vivo T4 Ultra 5G (Phoenix Gold, 256 GB)",vivo,37999,4.5,7.968319500012717,277.0,Dimensity 9300+ Processor,1.0,12.0,256.0,2048.0,Premium
+"vivo T4 Ultra 5G (Meteor Grey, 256 GB)",vivo,35999,4.5,8.28121766128665,376.0,Dimensity 9300+ Processor,1.0,8.0,256.0,2048.0,Premium
+"vivo V60e (Elite Purple, 256 GB)",vivo,33999,4.4,6.2285110035911835,39.0,Dimensity 7360-Turbo Processor,1.0,12.0,256.0,2048.0,Premium
+"Tecno Pova 7 Pro 5G (Neon Cyan, 256 GB)",Tecno,18749,4.4,7.932003152361385,312.0,Dimensity 7300 Ultimate Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Samsung Galaxy M16 5G (Mint Green, 128 GB)",Samsung,16499,4.2,7.00488198971286,54.0,Samsung Exynos 1380 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+Fuziqra Rock Z Flip Dual Sim Keypad Mobile with2.4Display Flip Fold Call & SMS Indicator,Fuziqra,1999,4.7,1.9459101490553132,0.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"POCO M7 Pro 5G (Lunar Dust, 256 GB)",POCO,13499,4.2,9.377632889750377,1001.0,Dimensity 7025 Ultra Processor,1.0,8.0,256.0,2048.0,Mid-Range
+Lvix L1 310,Lvix,619,3.4,7.202661196523238,59.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"OnePlus 13s 5G (Black Velvet, 512 GB)",OnePlus,58850,4.5,7.01211529430638,82.0,Samsung Exynos 1380 Processor,1.0,12.0,512.0,2048.0,Premium
+"Infinix SMART 9 HD (Mint Green, 64 GB)",Infinix,6699,4.1,8.37378460812088,262.0,Mediatek Helio G50 Processor,1.0,3.0,64.0,1024.0,Budget
+"Tecno Pova Slim 5G (Slim White, 128 GB)",Tecno,20999,4.2,6.396929655216146,53.0,Dimensity 6400 5G Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"vivo Y19 5G (Titanium Silver, 64 GB)",vivo,10499,4.3,7.373374309910049,63.0,Dimensity 6300 Processor,1.0,4.0,64.0,2048.0,Mid-Range
+"Apple iPhone 16 Plus (Teal, 128 GB)",Apple,71999,4.6,8.28349412616251,211.0,"A18 Chip, 6 Core Processor Processor",1.0,8.0,128.0,2048.0,Premium
+"Samsung Galaxy M16 5G (Blush Pink, 128 GB)",Samsung,12585,4.1,6.173786103901937,15.0,Samsung Exynos 1380 Processor,1.0,4.0,128.0,2048.0,Mid-Range
+"OnePlus 13s 5G (Pink Satin, 256 GB)",OnePlus,54499,4.5,7.01211529430638,82.0,Samsung Exynos 1380 Processor,1.0,12.0,256.0,2048.0,Premium
+"Infinix SMART 9 HD (Metallic Black, 64 GB)",Infinix,6699,4.1,8.37378460812088,262.0,Mediatek Helio G50 Processor,1.0,3.0,64.0,1024.0,Budget
+"vivo Y19 5G (Majestic Green, 128 GB)",vivo,12999,4.2,5.529429087511423,7.0,Dimensity 6300 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+Kechaoda K115,Kechaoda,974,4.1,10.659726896262056,2686.0,NA Processor,1.0,8.0,32.0,2048.0,Budget
+"Ai+ Pulse (Purple, 64 GB)",Ai+,5999,4.3,10.47861104348485,2212.0,T615 Processor,1.0,4.0,64.0,1024.0,Budget
+"REDMI 14C 5G (Stardust Purple, 128 GB)",REDMI,10858,4.2,9.002331708246244,414.0,4 Gen 2 5G Processor,1.0,6.0,128.0,1024.0,Mid-Range
+"REDMI 13 5G (Orchid Pink, 128 GB)",REDMI,12499,4.3,10.777079529877168,2383.0,4 Gen 2 AE Processor,1.0,6.0,128.0,1024.0,Mid-Range
+itel it2165s,itel,999,4.1,8.486940148245216,251.0,Unisoc Processor,1.0,8.0,128.0,32.0,Budget
+"vivo Y19 5G (Titanium Silver, 128 GB)",vivo,12999,4.2,5.529429087511423,7.0,Dimensity 6300 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+MTR m16 pro,MTR,4200,4.6,1.791759469228055,0.0,Cortex-A7 quad core Processor,1.0,3.0,128.0,2048.0,Budget
+Snexian Bold V1,Snexian,2280,4.1,5.793013608384144,11.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,16.0,Budget
+Micromax J3 PLUS,Micromax,882,3.8,4.727387818712341,8.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"REDMI 14C 5G (Stargaze Black, 64 GB)",REDMI,8999,4.2,8.98054977794018,399.0,4 Gen 2 5G Processor,1.0,4.0,64.0,1024.0,Budget
+"Samsung Galaxy M16 5G (Mint Green, 128 GB)",Samsung,12485,4.1,6.173786103901937,15.0,Samsung Exynos 1380 Processor,1.0,4.0,128.0,2048.0,Mid-Range
+"vivo T4 Ultra 5G (Phoenix Gold, 512 GB)",vivo,39999,4.5,7.968319500012717,277.0,Dimensity 9300+ Processor,1.0,12.0,512.0,2048.0,Premium
+"vivo T4 Ultra 5G (Meteor Grey, 256 GB)",vivo,37999,4.5,7.968319500012717,277.0,Dimensity 9300+ Processor,1.0,12.0,256.0,2048.0,Premium
+"OPPO A5x 5G (Laser White, 64 GB)",OPPO,11499,4.3,5.84354441703136,8.0,Dimensity 6300 Processor,1.0,4.0,64.0,2048.0,Mid-Range
+"vivo Y19 5G (Majestic Green, 64 GB)",vivo,10499,4.3,7.373374309910049,63.0,Dimensity 6300 Processor,1.0,4.0,64.0,2048.0,Mid-Range
+"OPPO F29 Pro 5G (Granite Black, 256 GB)",OPPO,21739,4.4,7.427738840532894,124.0,Dimensity 7300 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Feather Pink, 256 GB)",OPPO,15999,4.4,10.019224051018725,966.0,Dimensity 6300 Processor,1.0,8.0,256.0,1024.0,Mid-Range
+TOUCH 18 Rock Z Flip Dual Sim Keypad Mobile with2.4Display Flip Fold Call & SMS Indicator,TOUCH,1998,3.9,4.442651256490317,7.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"OPPO A5 Pro 5G (Mocha Brown, 128 GB)",OPPO,17999,4.3,6.366470447731438,21.0,Dimensity 6300 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"LAVA Storm Play 5G (Dune Titanium, 128 GB)",LAVA,10849,4.2,4.624972813284271,9.0,Samsung Exynos 1380 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"Ai+ Pulse (Pink, 128 GB)",Ai+,6999,4.0,8.202482446576537,235.0,T615 Processor,1.0,6.0,128.0,1024.0,Budget
+"OPPO A5x 5G (Laser White, 128 GB)",OPPO,12499,4.3,5.84354441703136,8.0,Dimensity 6300 Processor,1.0,4.0,128.0,2048.0,Mid-Range
+Kechaoda A26,Kechaoda,920,4.0,10.293398993717526,1617.0,NA Processor,1.0,8.0,128.0,16.0,Budget
+"MOTOROLA Razr 60 (PANTONE Gibraltar Sea, 256 GB)",MOTOROLA,49999,4.4,7.498869733976931,131.0,Dimensity 7400X Processor,1.0,8.0,256.0,2048.0,Premium
+"Tecno Spark Go 1 (Magic Skin Green, 64 GB)",Tecno,6899,4.3,7.453561871643373,82.0,Unisoc T61 Processor,1.0,3.0,64.0,1024.0,Budget
+"Samsung Galaxy M16 5G (Blush Pink, 128 GB)",Samsung,13999,4.2,7.00488198971286,54.0,Samsung Exynos 1380 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"Tecno Spark Go 2 (Ink Black, 64 GB)",Tecno,7499,4.2,7.5569505720129,118.0,T7250 Processor,1.0,4.0,64.0,1024.0,Budget
+"Tecno Spark Go 2 (Titanium Grey, 64 GB)",Tecno,7499,4.2,7.5569505720129,118.0,T7250 Processor,1.0,4.0,64.0,1024.0,Budget
+Kechaoda K200,Kechaoda,998,4.0,6.1070228877422545,15.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"MOTOROLA Edge 50 (Peach Fuzz, 256 GB)",MOTOROLA,21999,4.3,10.626144990470014,2950.0,Snapdragon 7 Gen 1 Accelerated Edition Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Tecno Spark Go 2 (Turquoise Green, 64 GB)",Tecno,7499,4.2,7.5569505720129,118.0,T7250 Processor,1.0,4.0,64.0,1024.0,Budget
+HOTLINE H312,HOTLINE,499,3.5,7.978653729082731,189.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"Tecno Spark Go 2 (Veil White, 64 GB)",Tecno,7499,4.2,7.5569505720129,118.0,T7250 Processor,1.0,4.0,64.0,1024.0,Budget
+"realme 15T 5G (Silk Blue, 128 GB)",realme,21999,4.3,8.39072252736229,297.0,MediaTek Dimensity 6400 MAX Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"realme 15T 5G (Flowing Silver, 256 GB)",realme,23999,4.3,8.39072252736229,297.0,MediaTek Dimensity 6400 MAX Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Tecno Spark Go 2 (Turquoise Green, 64 GB)",Tecno,6699,4.4,4.3694478524670215,2.0,T7250 Processor,1.0,3.0,64.0,1024.0,Budget
+"vivo V60e (Noble Gold, 128 GB)",vivo,29999,4.3,7.153833801578843,87.0,Dimensity 7360-Turbo Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Samsung Galaxy M35 5G (Moonlight Blue, 128 GB)",Samsung,17699,4.3,8.60557030203365,350.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"vivo Y18e (Space Black, 64 GB)",vivo,8999,4.2,6.790097235513905,29.0,Helios G85 Processor,1.0,4.0,64.0,1024.0,Budget
+"Xiaomi 14 CIVI (Panda White, 512 GB)",Xiaomi,36999,4.3,6.966967138613983,102.0,8s Gen 3 Mobile Platform Processor,1.0,12.0,512.0,2048.0,Premium
+"Samsung Galaxy A16 5G (Light Green, 128 GB)",Samsung,17467,4.2,8.232440158470336,203.0,Dimensity 6300 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"realme C73 5G (Jade Green, 64 GB)",realme,10259,4.2,7.189922170745808,66.0,Dimensity 6300 Processor,1.0,4.0,64.0,2048.0,Mid-Range
+"OPPO K13 Turbo 5G (Midnight Maverick, 128 GB)",OPPO,27999,4.5,8.870101048785726,426.0,Dimensity 8450 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"OnePlus 11 5G (Marble Odyssey, 256 GB)",OnePlus,39687,4.5,7.544861068658458,159.0,Samsung Exynos 1380 Processor,1.0,16.0,256.0,2048.0,Premium
+Kechaoda K33,Kechaoda,955,4.0,9.308917935337178,620.0,NA Processor,1.0,8.0,128.0,16.0,Budget
+"POCO M6 Plus 5G (Graphite Black, 128 GB)",POCO,13499,4.2,11.226988535536838,4289.0,Snapdragon 4 Gen2 AE Processor,1.0,6.0,128.0,1024.0,Mid-Range
+"Motorola g45 5G (Brilliant Blue, 128 GB)",Motorola,9999,4.3,10.865382426215298,3060.0,Snapdragon 6s Gen 3 Processor,1.0,4.0,128.0,1024.0,Budget
+"OPPO A5 Pro 5G (Feather Blue, 128 GB)",OPPO,17999,4.3,6.366470447731438,21.0,Dimensity 6300 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Tecno Spark Go 2 (Ink Black, 64 GB)",Tecno,6699,4.4,4.3694478524670215,2.0,T7250 Processor,1.0,3.0,64.0,1024.0,Budget
+"OPPO F31 Pro+ 5G (Himalayan White, 256 GB)",OPPO,34999,4.3,5.187385805840755,7.0,7 Gen 3 Mobile Platform Processor,1.0,12.0,256.0,2048.0,Premium
+"REDMI Note-14 Pro 5G (Titan Black, 256 GB)",REDMI,24970,4.3,6.016157159698354,16.0,Dimensity 7300 Ultra Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"POCO X7 5G (Glacier Green, 128 GB)",POCO,16999,4.3,10.175002132575733,2022.0,Dimensity 7300 Ultra Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"REDMI 13 5G (Orchid Pink, 128 GB)",REDMI,13999,4.2,9.523617089089445,737.0,4 Gen 2 AE Processor,1.0,8.0,128.0,1024.0,Mid-Range
+"Nokia 106 4G Keypad Mobile, Long-Lasting Battery, MicroSD Card Slot",Nokia,2199,3.9,8.50532301884575,328.0,Unisoc T107 Processor,1.0,8.0,128.0,2048.0,Budget
+Kechaoda K200,Kechaoda,999,4.0,6.1070228877422545,15.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"realme Gt 7 (Icesense Blue, 256 GB)",realme,39989,4.3,5.2832037287379885,17.0,Dimensity Processor,1.0,12.0,256.0,2048.0,Premium
+"Ai+ Nova 5G (Black, 128 GB)",Ai+,9999,3.8,7.916807490937603,244.0,T8200 Processor,1.0,8.0,128.0,1024.0,Budget
+"REDMI 13 5G (Hawaiian Blue, 128 GB)",REDMI,12499,4.3,10.777079529877168,2383.0,4 Gen 2 AE Processor,1.0,6.0,128.0,1024.0,Mid-Range
+"OnePlus 13s 5G (Green Silk, 256 GB)",OnePlus,49990,4.5,7.01211529430638,82.0,Samsung Exynos 1380 Processor,1.0,12.0,256.0,2048.0,Premium
+"Apple iPhone 14 (Midnight, 256 GB)",Apple,64900,4.6,12.676866587396603,11895.0,"A15 Bionic Chip, 6 Core Processor Processor",1.0,8.0,128.0,2048.0,Premium
+"vivo Y31 5G (Rose Red, 128 GB)",vivo,14999,4.4,5.062595033026967,3.0,4 Gen 2 Processor,1.0,4.0,128.0,2048.0,Mid-Range
+Snexian Bold V1,Snexian,2297,4.1,5.793013608384144,11.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,16.0,Budget
+"OPPO K13 Turbo 5G (White Knight, 128 GB)",OPPO,27999,4.5,8.870101048785726,426.0,Dimensity 8450 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"OPPO K13 Turbo 5G (Purple Phantom, 128 GB)",OPPO,27999,4.5,8.870101048785726,426.0,Dimensity 8450 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"realme Gt 7 (Icesense Black, 256 GB)",realme,37213,4.3,5.2832037287379885,17.0,Dimensity Processor,1.0,12.0,256.0,2048.0,Premium
+"Samsung M36 5G (Black /Velvet Black, 256 GB)",Samsung,22999,4.0,5.365976015021851,8.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Samsung Galaxy S23 Ultra 5G (Cream, 512 GB)",Samsung,161999,4.6,8.38091517312361,397.0,Qualcomm Snapdragon 8 Gen 2 Processor,1.0,12.0,512.0,2048.0,Premium
+"Samsung Galaxy A16 5G (Light Green, 128 GB)",Samsung,14350,4.2,8.231908243564177,167.0,Dimensity 6300 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+Snexian Bold V1,Snexian,2298,4.1,5.793013608384144,11.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,16.0,Budget
+"itel A50C (Luxe Black, 32 GB)",itel,6099,4.0,5.993961427306569,17.0,Samsung Exynos 1380 Processor,1.0,2.0,32.0,2048.0,Budget
+Jio V3,Jio,795,3.5,3.7612001156935624,0.0,ARM Cortex A7 Processor,1.0,8.0,128.0,2048.0,Budget
+"vivo T4 Ultra 5G (Meteor Grey, 512 GB)",vivo,39999,4.5,7.968319500012717,277.0,Dimensity 9300+ Processor,1.0,12.0,512.0,2048.0,Premium
+"realme 15T 5G (Suit Titanium, 128 GB)",realme,21999,4.3,8.39072252736229,297.0,MediaTek Dimensity 6400 MAX Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"POCO C71  - Locked with Airtel Prepaid (Desert Gold, 64 GB)",POCO,5749,3.8,10.787874735397274,2213.0,"Unisoc T7250
+Max clock speed: 
+2 x A75@1.8GHz
+6 x A55@1.6GHz Processor",1.0,4.0,64.0,2048.0,Budget
+"Samsung Galaxy A16 5G (Blue Black, 128 GB)",Samsung,14198,4.2,8.231908243564177,167.0,Dimensity 6300 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"vivo V60 5G (Moonlit Blue, 256 GB)",vivo,38999,4.5,7.711101251840158,180.0,7 Gen 4 Processor,1.0,8.0,256.0,2048.0,Premium
+"realme P3 Pro 5G (Saturn Brown, 128 GB)",realme,18999,4.4,9.687878048875998,1192.0,7s Gen 3 Mobile Platform Processor,1.0,8.0,128.0,2048.0,Mid-Range
+LAVA A1 Josh BOL,LAVA,999,4.0,10.025218341107275,1000.0,Mtk Processor,1.0,8.0,128.0,32.0,Budget
+"POCO M7 5G  - Locked with Airtel Prepaid (Mint Green, 128 GB)",POCO,8249,4.1,11.012198675881653,2844.0,4 Gen 2 5G Processor,1.0,6.0,128.0,1024.0,Budget
+itel it2165s,itel,1170,4.1,8.486940148245216,251.0,Unisoc Processor,1.0,8.0,128.0,32.0,Budget
+"REDMI Note 14 5G (Ivy Green, 256 GB)",REDMI,18799,4.2,8.023552392404348,164.0,Samsung Exynos 1380 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+GFive A98,GFive,890,3.7,8.087332926473351,361.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,16.0,Budget
+GFive A98,GFive,949,3.7,8.087332926473351,361.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,16.0,Budget
+"itel P55 5G (Galaxy Blue, 128 GB)",itel,10650,3.9,5.356586274672012,7.0,Samsung Exynos 1380 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+Jmax QUEEN,Jmax,666,3.4,5.575949103146316,11.0,No Processor,1.0,8.0,128.0,16.0,Budget
+"Apple iPhone 16e (White, 256 GB)",Apple,61999,4.5,7.4360278163518485,113.0,"A18 Chip, 6 Core Processor",1.0,8.0,128.0,2048.0,Premium
+KARBONN Jumbo K9,KARBONN,1287,4.0,9.704548689918736,1495.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"vivo V60 5G (Auspicious Gold, 256 GB)",vivo,40999,4.5,6.946975992135418,83.0,7 Gen 4 Processor,1.0,12.0,256.0,2048.0,Premium
+"Samsung Galaxy M17 5G (Sapphire Black, 128 GB)",Samsung,15500,4.3,2.8903717578961645,1.0,Samsung Exynos 1380 Processor,1.0,4.0,128.0,2048.0,Mid-Range
+"realme P3 Pro 5G (Galaxy Purple, 256 GB)",realme,19999,4.4,9.687878048875998,1192.0,7s Gen 3 Mobile Platform Processor,1.0,8.0,256.0,2048.0,Mid-Range
+Jio JioBharat K2 Keypad Phone,Jio,950,3.6,5.298317366548036,8.0,Samsung Exynos 1380 Processor,1.0,8.0,4.0,2048.0,Budget
+"Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",Samsung,27381,4.3,7.399398083331354,124.0,Qualcomm Snapdragon 6 Gen 3 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+Peace P30,Peace,749,4.3,1.6094379124341003,0.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"OPPO A3x (Nebula Red, 64 GB)",OPPO,8999,4.1,7.381501894506707,84.0,6s 4G Gen1 Processor,1.0,4.0,64.0,1024.0,Budget
+"REDMI Note-14 Pro 5G (Phantom Purple, 256 GB)",REDMI,23199,4.3,6.016157159698354,16.0,Dimensity 7300 Ultra Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"Motorola e40 (Carbon Gray, 64 GB)",Motorola,5999,4.2,11.419208016096322,7763.0,UNISOC T700 Processor,1.0,4.0,64.0,1024.0,Budget
+LAVA A2 Smart,LAVA,1239,4.1,4.74493212836325,5.0,Mtk Processor,1.0,8.0,128.0,32.0,Budget
+"OPPO A3x (Ocean Blue, 128 GB)",OPPO,9999,4.1,7.381501894506707,84.0,6s 4G Gen1 Processor,1.0,4.0,128.0,1024.0,Budget
+"Infinix GT 30 5G+ Pulse Green 128 (Pulse Green, 128 GB)",Infinix,19499,4.5,5.60947179518496,14.0,Dimensity 7400 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"OnePlus 13s 5G (Black Velvet, 256 GB)",OnePlus,54890,4.5,7.01211529430638,82.0,Samsung Exynos 1380 Processor,1.0,12.0,256.0,2048.0,Premium
+Nokia 235 4G DS,Nokia,3989,3.6,7.479299637782834,114.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"Samsung Galaxy S25 Ultra 5G (Titanium Whitesilver, 256 GB)",Samsung,129999,4.6,7.798112628829788,248.0,8 Elite for Galaxy Processor,1.0,12.0,256.0,2048.0,Premium
+"Redmi 6A (Black, 32 GB)",Redmi,5999,4.3,10.968267252667786,3889.0,Mediateck Processor,1.0,2.0,32.0,128.0,Budget
+"OPPO F27 Pro+ (Dusk Pink, 128 GB)",OPPO,20939,4.4,9.673004633835156,679.0,Dimensity 7050 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+Nokia 106,Nokia,1299,3.6,9.122273893107732,528.0,SC6531E Processor,1.0,8.0,128.0,2048.0,Budget
+"Samsung Galaxy M16 5G (Thunder Black, 128 GB)",Samsung,16799,4.2,7.00488198971286,54.0,Samsung Exynos 1380 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"REDMI Note 14 Pro+ 5G (Champagne Gold, 128 GB)",REDMI,26999,4.4,7.953318346560431,242.0,7s Gen 3 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"vivo Y22 (Metaverse Green, 128 GB)",vivo,12249,4.3,7.804251383528112,142.0,Mediatek Helio G70 Processor,1.0,4.0,128.0,1024.0,Mid-Range
+"Tecno Pova 6 Neo 5G (Aurora Cloud, 128 GB)",Tecno,11999,4.3,8.636574948436317,337.0,Dimensity 6300 5G Processor,1.0,6.0,128.0,1024.0,Mid-Range
+"OPPO A3x (Nebula Red, 128 GB)",OPPO,9590,4.1,7.381501894506707,84.0,6s 4G Gen1 Processor,1.0,4.0,128.0,1024.0,Budget
+"Motorola G85 5G (Olive Green, 256 GB)",Motorola,17999,4.4,11.336128618818973,4632.0,6s Gen 3 Processor,1.0,12.0,256.0,2048.0,Mid-Range
+"vivo Y22 (Starlit Blue, 128 GB)",vivo,13499,4.3,7.804251383528112,142.0,Mediatek Helio G70 Processor,1.0,4.0,128.0,1024.0,Mid-Range
+"Tecno Pova 6 Neo 5G (Azure Sky, 256 GB)",Tecno,13999,4.1,6.565264970035361,56.0,Dimensity 6300 5G Processor,1.0,8.0,256.0,1024.0,Mid-Range
+"Tecno Pova 6 Neo 5G (Aurora Cloud, 256 GB)",Tecno,13999,4.1,6.565264970035361,56.0,Dimensity 6300 5G Processor,1.0,8.0,256.0,1024.0,Mid-Range
+oneme FM-1,oneme,1200,3.7,4.143134726391533,2.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"Tecno Pova 6 Neo 5G (Midnight Shadow, 256 GB)",Tecno,13999,4.1,6.565264970035361,56.0,Dimensity 6300 5G Processor,1.0,8.0,256.0,1024.0,Mid-Range
+"vivo Y19 5G (Green, 64 GB)",vivo,10699,4.3,7.373374309910049,63.0,Samsung Exynos 1380 Processor,1.0,4.0,64.0,2048.0,Mid-Range
+"OPPO F31 Pro 5G (Desert Gold, 128 GB)",OPPO,26999,4.4,6.09807428216624,38.0,Dimensity 7300 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Samsung Galaxy F06 5G (Bahama Blue, 128 GB)",Samsung,11499,4.2,9.78052864513568,1117.0,Dimensity 6300 Processor,1.0,6.0,128.0,1500.0,Mid-Range
+"vivo V60 5G (Mist Gray, 128 GB)",vivo,36999,4.5,7.711101251840158,180.0,7 Gen 4 Processor,1.0,8.0,128.0,2048.0,Premium
+"realme P3 Pro 5G (Nebula Glow, 128 GB)",realme,18999,4.4,9.687878048875998,1192.0,7s Gen 3 Mobile Platform Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"Google Pixel 10 Pro (Obsidian, 256 GB)",Google,109999,4.6,5.521460917862246,26.0,Tensor G5 Processor,1.0,16.0,256.0,2048.0,Premium
+"Samsung M36 5G (Velvet Black / Black, 128 GB)",Samsung,18900,4.0,5.365976015021851,8.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"vivo V60e (Elite Purple, 128 GB)",vivo,29999,4.3,7.153833801578843,87.0,Dimensity 7360-Turbo Processor,1.0,8.0,128.0,2048.0,Mid-Range
+oneme FM-1,oneme,1190,3.7,4.143134726391533,2.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"OPPO A5 Pro 5G (Mocha Brown, 256 GB)",OPPO,19999,4.3,6.366470447731438,21.0,Dimensity 6300 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"OPPO A5 5G (Aurora Green, 128 GB)",OPPO,15499,4.3,5.541263545158426,9.0,Dimensity 6300 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+Jio Bharat V3 JBV191M1 4G Sim Working,Jio,825,3.9,4.23410650459726,4.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"OPPO K13 Turbo 5G (Purple Phantom, 256 GB)",OPPO,29999,4.5,8.870101048785726,426.0,Dimensity 8450 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"OPPO K13 Turbo 5G (White Knight, 256 GB)",OPPO,29999,4.5,8.870101048785726,426.0,Dimensity 8450 Processor,1.0,8.0,256.0,2048.0,Mid-Range
+"realme C75 5G (Purple Blossom, 128 GB)",realme,13999,4.4,7.474204806496124,71.0,Dimensity 6300 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+"LAVA Yuva 3 with Dual Sim|5000 mAh Battery|13MP Rear Camera |Expandable Upto 512 GB (Cosmic Lavender, ...",LAVA,6379,4.0,6.2166061010848646,23.0,UNISOC T606 Octa-core Processor Processor,1.0,4.0,64.0,512.0,Budget
+"Samsung M36 5G (Serene Green / Light Green, 128 GB)",Samsung,16299,4.0,5.365976015021851,8.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Mid-Range
+"realme 15T 5G (Flowing Silver, 256 GB)",realme,25999,4.2,6.29156913955832,50.0,MediaTek Dimensity 6400 MAX Processor,1.0,12.0,256.0,2048.0,Mid-Range
+itel Super Guru 4G | King Media | Youtube | UPI,itel,1799,3.7,6.665683717782408,49.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,32.0,Budget
+"OPPO A5x 5G (Midnight Blue, 64 GB)",OPPO,11499,4.3,5.84354441703136,8.0,Dimensity 6300 Processor,1.0,4.0,64.0,2048.0,Mid-Range
+"Snexian BOLD T400 (Grey, 16 GB)",Snexian,4982,3.6,4.304065093204169,7.0,Samsung Exynos 1380 Processor,1.0,2.0,16.0,2048.0,Budget
+"Samsung Galaxy F34 5G (Electric Black, 128 GB)",Samsung,21999,4.2,9.701432566051784,1179.0,Exynos 1280 Processor,1.0,8.0,128.0,1024.0,Mid-Range
+"Tecno Spark Go 1 (Startrail Black, 64 GB)",Tecno,6899,4.3,7.453561871643373,82.0,Unisoc T61 Processor,1.0,3.0,64.0,1024.0,Budget
+"OPPO F31 Pro+ 5G (Gemstone Blue, 256 GB)",OPPO,32999,4.4,5.236441962829949,22.0,7 Gen 3 Mobile Platform Processor,1.0,8.0,256.0,2048.0,Premium
+"OPPO A5 5G (Mist White, 128 GB)",OPPO,15499,4.3,5.541263545158426,9.0,Dimensity 6300 Processor,1.0,6.0,128.0,2048.0,Mid-Range
+GFive U550,GFive,899,3.7,5.0689042022202315,11.0,Samsung Exynos 1380 Processor,1.0,8.0,128.0,2048.0,Budget
+"Ai+ Nova 5G (Green, 128 GB)",Ai+,9999,3.8,7.916807490937603,244.0,T8200 Processor,1.0,8.0,128.0,1024.0,Budget
