@@ -484,8 +484,8 @@ Explain the FINAL STORY WITH THE DASHBOARD
 Create a PDF pasting your DASHBOARD, explaining all the above mentioned concepts and submit it
 
 Power BI Dashboard Link:
-#Dashboard PDF Link:https://drive.google.com/file/d/13EnB8yYzuPKfCfog0dQ413M2PBCNTwbA/view?usp=sharing
-#Report Link:https://drive.google.com/file/d/1OrJesrm8EXCKQPZHfu24SyTJA__2bmSy/view?usp=sharing
+#Dashboard PDF Link:https:
+#Report Link:https:
 # Future Enhancement
 
 Include more features like battery, processor, and camera details for deeper analysis.
